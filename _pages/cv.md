@@ -41,16 +41,6 @@ Awards
 * President of India Gold Medal, 2013 (IIT Kharagpur).
 * Institute Silver Medal, 2013 (IIT Kharagpur).
 * KVPY Fellowship, 2008 (IISc).
- 
-Skills
-------
-* <b>Programming:</b> C, TCL, Perl, Python
-* <b>HDL:</b> Verilog, BlueSpec
-* <b>CAD:</b>
-  * <b>Cadence:</b> Virtuoso, RTL Compiler, Encounter, Conformal Low Power
-  * <b>Synopsys:</b> Design Compiler, IC Compiler, PrimeTime
-  * <b>Mentor Graphics:</b> Calibre
-* <b>Others:</b> MATLAB, SPICE, Sage, Vivado, Eagle
 
 Theses
 ------
@@ -73,3 +63,13 @@ Talks
 * "Exploring Low-Cost Data Encryption using Compressed Sensing," <i>Analog Devices</i>, Wilmington, MA ,USA, August 2017.
 * "Energy-Efficient Transport Layer Security for the Internet of Things," <i>MIT Center for Integrated Circuits and Systems</i>, Cambridge, MA, USA, May 2017.
 * "Towards Energy-Efficient Transport Layer Security for the Internet of Things," <i>Analog Devices</i>, Wilmington, MA ,USA, October 2016.
+ 
+Skills
+------
+* <b>Programming:</b> C, TCL, Perl, Python
+* <b>HDL:</b> Verilog, BlueSpec
+* <b>CAD:</b>
+  * <b>Cadence:</b> Virtuoso, RTL Compiler, Encounter, Conformal Low Power
+  * <b>Synopsys:</b> Design Compiler, IC Compiler, PrimeTime
+  * <b>Mentor Graphics:</b> Calibre
+* <b>Others:</b> MATLAB, SPICE, Sage, Vivado, Eagle
