@@ -54,17 +54,22 @@ Skills
 
 Theses
 ------
-* U. Banerjee, "Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security," S.M. Thesis, Massachusetts Institute of Technology, June 2017. [<a href="https://dspace.mit.edu/bitstream/handle/1721.1/111861/1005227047-MIT.pdf" style="color:#0000EE;">link</a>]
-* U. Banerjee, "Study of Thermal Effects in AlGaN/GaN High Electron Mobility Transistors (HEMTs) and Refinement of Existing Mobility and I-V Models," B.Tech. Thesis, Indian Institute of Technology Kharagpur, April 2013.
+* U. Banerjee, "Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security," <i>S.M. Thesis, Massachusetts Institute of Technology</i>, June 2017. [<a href="https://dspace.mit.edu/bitstream/handle/1721.1/111861/1005227047-MIT.pdf" style="color:#0645AD;">link</a>]
+* U. Banerjee, "Study of Thermal Effects in AlGaN/GaN High Electron Mobility Transistors (HEMTs) and Refinement of Existing Mobility and I-V Models," <i>B.Tech. Thesis, Indian Institute of Technology Kharagpur</i>, April 2013.
 
 Publications
 ------------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* <b>U. Banerjee</b>, C. Juvekar, A. Wright, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2018. [<a href="https://ieeexplore.ieee.org/document/8310174/" style="color:#0645AD;">link</a>]
+* <b>U. Banerjee</b>, C. Juvekar, S. H. Fuller and A. P. Chandrakasan, "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," <i>IEEE Global Communications Conference (GLOBECOM)</i>, December 2017. [<a href="https://ieeexplore.ieee.org/document/8255053/" style="color:#0645AD;">link</a>]
+* <b>U. Banerjee</b>, L. Ho and S. Koppula, "Power-Based Side-Channel Attack for AES Key Extraction on the ATMega328 Microcontroller," <i>MIT Computer Systems Security Report</i>, December 2015. [<a href="http://css.csail.mit.edu/6.858/2015/projects/utsav-lisayz-skoppula.pdf" style="color:#0645AD;">link</a>]
+* P. Mukhopadhyay, <b>U. Banerjee</b>, A. Bag, S. Ghosh and D. Biswas, "Influence of Growth Morphology on Electrical and Thermal Modeling of AlGaN/GaN HEMT on Sapphire and Silicon," <i>Solid-State Electronics</i>, vol. 104, pp. 101-108, February 2015. [<a href="https://doi.org/10.1016/j.sse.2014.11.017" style="color:#0645AD;">link</a>]
+* P. Mukhopadhyay, A. Bag, U. Gomes, <b>U. Banerjee<\b>, S. Ghosh, S. Kabi, E. Y. I. Chang, A. Dabiran, P. Chow and D. Biswas, "Comparative DC Characteristic Analysis of AlGaN/GaN HEMTs Grown on Si(111) and Sapphire Substrates by MBE," <i>IEEE/TMS Journal of Electronic Materials</i>, vol. 43, no. 4, pp. 1263–1270, April 2014. [<a href="https://doi.org/10.1007/s11664-014-3050-4" style="color:#0645AD;">link</a>]
   
 Talks
 -----
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>MIT Center for Integrated Circuits and Systems</i>, Cambridge, MA, USA, May 2018.
+* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, San Francisco, CA, USA, February 2018.
+* "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," <i>IEEE Global Communications Conference (GLOBECOM)</i>, Singapore, December 2017.
+* "Exploring Low-Cost Data Encryption using Compressed Sensing," <i>Analog Devices</i>, Wilmington, MA ,USA, August 2017.
+* "Energy-Efficient Transport Layer Security for the Internet of Things," <i>MIT Center for Integrated Circuits and Systems</i>, Cambridge, MA, USA, May 2017.
+* "Towards Energy-Efficient Transport Layer Security for the Internet of Things," <i>Analog Devices</i>, Wilmington, MA ,USA, October 2016.
