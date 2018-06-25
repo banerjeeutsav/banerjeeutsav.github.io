@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ---------
-* Massachusetts Institute of Technology, Cambridge, MA (2017 – present)
+* <b>Massachusetts Institute of Technology</b>, Cambridge, MA (2017 – present)
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
   * GPA: 5.0 / 5.0
-* Massachusetts Institute of Technology, Cambridge, MA (2015 – 2017)
+* <b>Massachusetts Institute of Technology</b>, Cambridge, MA (2015 – 2017)
   * S.M. in Electrical Engineering & Computer Science
-  * Thesis Title: Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security
+  * Thesis Title: <i>Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security</i>
   * Advisor: Prof. Anantha P. Chandrakasan
   * GPA: 5.0 / 5.0
-* Indian Institute of Technology Kharagpur, Kharagpur, India (2009 – 2013)
+* <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, India (2009 – 2013)
   * B.Tech. (Hons.) in Electronics & Electrical Communication Engineering
   * GPA: 9.79 / 10.00
 
 Work Experience
 ---------------
-* Circuit Design Intern, Analog Devices Inc., Wilmington, MA, USA (June 2017 – August 2017)
+* Circuit Design Intern, <b>Analog Devices Inc.</b>, Wilmington, MA, USA (June 2017 – August 2017)
   * Implementation of low-cost data encryption protocols and hardware based on compressed sensing theory.
-* Associate Engineer, Qualcomm Inc., Bangalore, India (June 2013 – March 2015)
+* Associate Engineer, <b>Qualcomm Inc.</b>, Bangalore, India (June 2013 – March 2015)
   * Design of power management architectures for Snapdragon mobile SoCs.
   * Deployment of IEEE 1801-2013 UPF (Unified Power Format) methodology for power-aware SoC design.
-* Engineering Intern, Qualcomm Inc., Bangalore, India (May 2012 – July 2012)
+* Engineering Intern, <b>Qualcomm Inc.</b>, Bangalore, India (May 2012 – July 2012)
   * Development of empirical models for early estimation of clock-tree dynamic power.
 
 Awards
@@ -44,13 +44,13 @@ Awards
  
 Skills
 ------
-* Programming: C, TCL, Perl, Python
-* HDL: Verilog, BlueSpec
-* CAD:
-  * Cadence: Virtuoso, RTL Compiler, Encounter, Conformal Low Power
-  * Synopsys: Design Compiler, PrimeTime
-  * Mentor Graphics: Calibre
-* Others: MATLAB, SPICE, Vivado, Eagle
+* <b>Programming:</b> C, TCL, Perl, Python
+* <b>HDL:</b> Verilog, BlueSpec
+* <b>CAD:</b>
+  * <b>Cadence:</b> Virtuoso, RTL Compiler, Encounter, Conformal Low Power
+  * <b>Synopsys:</b> Design Compiler, IC Compiler, PrimeTime
+  * <b>Mentor Graphics:</b> Calibre
+* <b>Others:</b> MATLAB, SPICE, Sage, Vivado, Eagle
 
 Publications
 ------------
