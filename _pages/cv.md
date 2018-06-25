@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Educational Qualifications
-======
+Education
+---------
 * Massachusetts Institute of Technology, Cambridge, MA (2017 – present)
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
@@ -25,25 +25,32 @@ Educational Qualifications
   * GPA: 9.79 / 10.00
 
 Work Experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+---------------
+* Circuit Design Intern, Analog Devices Inc., Wilmington, MA, USA (June 2017 – August 2017)
+  * Implementation of low-cost data encryption protocols and hardware based on compressed sensing theory.
+* Associate Engineer, Qualcomm Inc., Bangalore, India (June 2013 – March 2015)
+  * Design of power management architectures for Snapdragon mobile SoCs.
+  * Deployment of IEEE 1801-2013 UPF (Unified Power Format) methodology for power-aware SoC design.
+* Engineering Intern, Qualcomm Inc., Bangalore, India (May 2012 – July 2012)
+  * Development of empirical models for early estimation of clock-tree dynamic power.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Awards
+------ 
+* Qualcomm Innovation Fellowship, 2016.
+* Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT).
+* President of India Gold Medal, 2013 (IIT Kharagpur).
+* Institute Silver Medal, 2013 (IIT Kharagpur).
+* KVPY Fellowship, 2008 (IISc).
+ 
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+* Programming: C, TCL, Perl, Python
+* HDL: Verilog, BlueSpec
+* CAD:
+  * Cadence: Virtuoso, RTL Compiler, Encounter, Conformal Low Power
+  * Synopsys: Design Compiler, PrimeTime
+  * Mentor Graphics: Calibre
+* Others: MATLAB, SPICE, Vivado, Eagle
 
 Publications
 ======
@@ -62,7 +69,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
