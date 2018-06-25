@@ -1,6 +1,6 @@
 ---
 title: "Energy-Efficient Reconfigurable DTLS Cryptographic Engine for IoT Security"
-excerpt: "<br/><img src='/images/portfolio-1-cover.png'>"
+excerpt: "In this work, we propose energy-efficient protocols and hardware architectures for securing the Internet of Things (IoT) using Datagram Transport Layer Security (DTLS). Efficient public key authentication using elliptic curve cryptography is demonstrated using our proposed hardware, which provides orders of magnitude energy savings and reduction in memory usage compared to traditional software implementations. <a href="https://banerjeeutsav.github.io/portfolio/portfolio-1/" style="color:#0645AD;">More ...</a> <br/><img src='/images/portfolio-1-cover.png'>"
 collection: portfolio
 ---
 
