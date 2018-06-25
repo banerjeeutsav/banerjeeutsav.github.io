@@ -9,13 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educational Qualifications
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Massachusetts Institute of Technology, Cambridge, MA (2017 – present)
+  * Ph.D. in Electrical Engineering & Computer Science
+  * Advisor: Prof. Anantha P. Chandrakasan
+  * GPA: 5.0 / 5.0
+* Massachusetts Institute of Technology, Cambridge, MA (2015 – 2017)
+  * S.M. in Electrical Engineering & Computer Science
+  * Thesis Title: Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security
+  * Advisor: Prof. Anantha P. Chandrakasan
+  * GPA: 5.0 / 5.0
+* Indian Institute of Technology Kharagpur, Kharagpur, India (2009 – 2013)
+  * B.Tech. (Hons.) in Electronics & Electrical Communication Engineering
+  * GPA: 9.79 / 10.00
 
-Work experience
+Work Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
