@@ -57,6 +57,7 @@ Publications
   
 Talks
 -----
+* "Energy-Efficient Solutions for Securing the Internet of Things," <i>Texas Instruments Kilby Labs</i>, Dallas, TX, USA, July 2018.
 * "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>MIT Center for Integrated Circuits and Systems</i>, Cambridge, MA, USA, May 2018.
 * "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, San Francisco, CA, USA, February 2018.
 * "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," <i>IEEE Global Communications Conference (GLOBECOM)</i>, Singapore, December 2017.
