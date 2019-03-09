@@ -49,6 +49,7 @@ Theses
 
 Publications
 ------------
+* <b>U. Banerjee</b>, A. Pathak and A. P. Chandrakasan, "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2019.
 * <b>U. Banerjee</b>, C. Juvekar, A. Wright, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2018. [<a href="https://ieeexplore.ieee.org/document/8310174/" style="color:#0645AD;">link</a>]
 * <b>U. Banerjee</b>, C. Juvekar, S. H. Fuller and A. P. Chandrakasan, "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," <i>IEEE Global Communications Conference (GLOBECOM)</i>, December 2017. [<a href="https://ieeexplore.ieee.org/document/8255053/" style="color:#0645AD;">link</a>]
 * <b>U. Banerjee</b>, L. Ho and S. Koppula, "Power-Based Side-Channel Attack for AES Key Extraction on the ATMega328 Microcontroller," <i>MIT Computer Systems Security Report</i>, December 2015. [<a href="http://css.csail.mit.edu/6.858/2015/projects/utsav-lisayz-skoppula.pdf" style="color:#0645AD;">link</a>]
@@ -57,13 +58,15 @@ Publications
   
 Talks
 -----
-* "Energy-Efficient Solutions for Securing the Internet of Things," <i>Texas Instruments Kilby Labs</i>, Dallas, TX, USA, July 2018.
-* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>MIT Center for Integrated Circuits and Systems</i>, Cambridge, MA, USA, May 2018.
-* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, San Francisco, CA, USA, February 2018.
-* "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," <i>IEEE Global Communications Conference (GLOBECOM)</i>, Singapore, December 2017.
-* "Exploring Low-Cost Data Encryption using Compressed Sensing," <i>Analog Devices</i>, Wilmington, MA ,USA, August 2017.
-* "Energy-Efficient Transport Layer Security for the Internet of Things," <i>MIT Center for Integrated Circuits and Systems</i>, Cambridge, MA, USA, May 2017.
-* "Towards Energy-Efficient Transport Layer Security for the Internet of Things," <i>Analog Devices</i>, Wilmington, MA ,USA, October 2016.
+* "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2019.
+* "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course (6.374), MIT, Cambridge, MA, USA, November 2018.
+* "Energy-Efficient Solutions for Securing the Internet of Things," Texas Instruments Kilby Labs, Dallas, TX, USA, July 2018.
+* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2018.
+* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2018.
+* "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
+* "Exploring Low-Cost Data Encryption using Compressed Sensing," Analog Devices, Wilmington, MA ,USA, August 2017.
+* "Energy-Efficient Transport Layer Security for the Internet of Things," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2017.
+* "Towards Energy-Efficient Transport Layer Security for the Internet of Things," Analog Devices, Wilmington, MA ,USA, October 2016.
  
 Skills
 ------
