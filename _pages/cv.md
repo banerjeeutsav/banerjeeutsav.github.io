@@ -64,7 +64,7 @@ Talks
 * "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2018.
 * "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2018.
 * "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
-* "Exploring Low-Cost Data Encryption using Compressed Sensing," Analog Devices, Wilmington, MA ,USA, August 2017.
+* "Exploring Low-Cost Data Encryption using Compressed Sensing," Analog Devices, Wilmington, MA, USA, August 2017.
 * "Energy-Efficient Transport Layer Security for the Internet of Things," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2017.
 * "Towards Energy-Efficient Transport Layer Security for the Internet of Things," Analog Devices, Wilmington, MA ,USA, October 2016.
  
