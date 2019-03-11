@@ -13,4 +13,4 @@ Press Mentions: <a href="http://news.mit.edu/2019/securing-internet-things-in-qu
 
 Publications
 ------------
-* U. Banerjee, A. Pathak and A. P. Chandrakasan, "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2019.
+* U. Banerjee, A. Pathak and A. P. Chandrakasan, "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2019. [<a href="https://ieeexplore.ieee.org/document/8662528/" style="color:#0645AD;">link</a>]
