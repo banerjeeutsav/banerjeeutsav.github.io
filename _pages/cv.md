@@ -29,8 +29,7 @@ Work Experience
 * Circuit Design Intern, <b>Analog Devices</b>, Wilmington, MA, USA (June 2017 – August 2017)
   * Implementation of low-cost data encryption protocols and hardware based on compressed sensing theory.
 * Associate Engineer, <b>Qualcomm</b>, Bangalore, India (June 2013 – March 2015)
-  * Design of power management architectures for Snapdragon mobile SoCs.
-  * Deployment of IEEE 1801-2013 UPF methodology for power-aware SoC design.
+  * Design and verification of power management architectures for Snapdragon mobile SoCs.
 * Engineering Intern, <b>Qualcomm</b>, Bangalore, India (May 2012 – July 2012)
   * Development of empirical models for early estimation of clock-tree dynamic power.
 
