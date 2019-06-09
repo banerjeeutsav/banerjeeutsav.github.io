@@ -49,6 +49,7 @@ Theses
 
 Publications
 ------------
+* <b>U. Banerjee</b>, A. Wright, C. Juvekar, M. Waller, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for Securing Internet-of-Things Applications," <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, May 2019. [<a href="https://ieeexplore.ieee.org/document/8721457/" style="color:#0645AD;">link</a>]
 * <b>U. Banerjee</b>, A. Pathak and A. P. Chandrakasan, "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2019. [<a href="https://ieeexplore.ieee.org/document/8662528/" style="color:#0645AD;">link</a>]
 * <b>U. Banerjee</b>, C. Juvekar, A. Wright, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2018. [<a href="https://ieeexplore.ieee.org/document/8310174/" style="color:#0645AD;">link</a>]
 * <b>U. Banerjee</b>, C. Juvekar, S. H. Fuller and A. P. Chandrakasan, "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," <i>IEEE Global Communications Conference (GLOBECOM)</i>, December 2017. [<a href="https://ieeexplore.ieee.org/document/8255053/" style="color:#0645AD;">link</a>]
