@@ -29,8 +29,7 @@ Work Experience
 * Circuit Design Intern, <b>Analog Devices</b>, Wilmington, MA, USA (June 2017 – August 2017)
   * Implementation of low-cost data encryption protocols and hardware based on compressed sensing theory.
 * Associate Engineer, <b>Qualcomm</b>, Bangalore, India (June 2013 – March 2015)
-  * Design of power management architectures for Snapdragon mobile SoCs.
-  * Deployment of IEEE 1801-2013 UPF methodology for power-aware SoC design.
+  * Design and verification of power management architectures for Snapdragon mobile SoCs.
 * Engineering Intern, <b>Qualcomm</b>, Bangalore, India (May 2012 – July 2012)
   * Development of empirical models for early estimation of clock-tree dynamic power.
 
@@ -67,7 +66,7 @@ Talks
 * "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
 * "Exploring Low-Cost Data Encryption using Compressed Sensing," Analog Devices, Wilmington, MA, USA, August 2017.
 * "Energy-Efficient Transport Layer Security for the Internet of Things," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2017.
-* "Towards Energy-Efficient Transport Layer Security for the Internet of Things," Analog Devices, Wilmington, MA ,USA, October 2016.
+* "Towards Energy-Efficient Transport Layer Security for the Internet of Things," Analog Devices, Wilmington, MA, USA, October 2016.
  
 Skills
 ------
