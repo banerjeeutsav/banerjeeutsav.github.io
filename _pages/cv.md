@@ -63,7 +63,7 @@ Talks
 * "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course (6.374), MIT, Cambridge, MA, USA, November 2018.
 * "Energy-Efficient Solutions for Securing the Internet of Things," Texas Instruments Kilby Labs, Dallas, TX, USA, July 2018.
 * "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2018.
-* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2018.
+* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2018. [<a href="https://pdfs.semanticscholar.org/6b3f/8ca05dfd2f9e2ad9de5093f972c9b759592f.pdf" style="color:#0645AD;">slides</a>]
 * "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
 * "Exploring Low-Cost Data Encryption using Compressed Sensing," Analog Devices, Wilmington, MA, USA, August 2017.
 * "Energy-Efficient Transport Layer Security for the Internet of Things," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2017.
