@@ -59,6 +59,7 @@ Publications
   
 Talks
 -----
+* "Efficient Hardware Architectures for Securing the Internet of Things," Texas Instruments, Dallas, TX, USA, June 2019.
 * "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2019.
 * "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, November 2018.
 * "Energy-Efficient Solutions for Securing the Internet of Things," Texas Instruments Kilby Labs, Dallas, TX, USA, July 2018.
