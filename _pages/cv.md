@@ -76,6 +76,7 @@ Teaching
   * Advanced Topic Lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
   * Designed new assignment on understanding ASIC design flow and digital architecture trade-offs
   * Graded problem sets, exams and course projects; held office hours and tutorials
+  * Received overall rating of 6.7 / 7.0
 
 Activities
 ----------
