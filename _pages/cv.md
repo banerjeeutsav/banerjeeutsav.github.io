@@ -60,7 +60,7 @@ Publications
 Talks
 -----
 * "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2019.
-* "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course (6.374), MIT, Cambridge, MA, USA, November 2018.
+* "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, November 2018.
 * "Energy-Efficient Solutions for Securing the Internet of Things," Texas Instruments Kilby Labs, Dallas, TX, USA, July 2018.
 * "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2018.
 * "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2018. [<a href="https://pdfs.semanticscholar.org/6b3f/8ca05dfd2f9e2ad9de5093f972c9b759592f.pdf" style="color:#0645AD;">slides</a>]
@@ -69,9 +69,16 @@ Talks
 * "Energy-Efficient Transport Layer Security for the Internet of Things," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2017.
 * "Towards Energy-Efficient Transport Layer Security for the Internet of Things," Analog Devices, Wilmington, MA, USA, October 2016.
 
+Teaching
+--------
+* Teaching Assistant for <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT
+  * Advanced Topic Lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
+  * Designed new assignment on understanding ASIC design flow and digital architecture trade-offs
+  * Graded problem sets, exams and course projects; held office hours and tutorials
+
 Activities
 ----------
-* Reviewer for the following IEEE journals: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
+* Reviewer for the following IEEE journals since 2018: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
   * TCAS-I (Transactions on Circuits and Systems I: Regular Papers)
   * TCAS-II (Transactions on Circuits and Systems II: Express Briefs)
   * TVLSI (Transactions on Very Large Scale Integration Systems)
