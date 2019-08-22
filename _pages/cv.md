@@ -68,6 +68,15 @@ Talks
 * "Exploring Low-Cost Data Encryption using Compressed Sensing," Analog Devices, Wilmington, MA, USA, August 2017.
 * "Energy-Efficient Transport Layer Security for the Internet of Things," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2017.
 * "Towards Energy-Efficient Transport Layer Security for the Internet of Things," Analog Devices, Wilmington, MA, USA, October 2016.
+
+Activities
+----------
+* Reviewer for the following IEEE journals: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
+  * TCAS-I (Transactions on Circuits and Systems I: Regular Papers)
+  * TCAS-II (Transactions on Circuits and Systems II: Express Briefs)
+  * TVLSI (Transactions on Very Large Scale Integration Systems)
+  * JSSC (Journal of Solid-State Circuits)
+* External reviewer for IEEE Symposium on VLSI Circuits - VLSIC 2016 and VLSIC 2017
  
 Skills
 ------
