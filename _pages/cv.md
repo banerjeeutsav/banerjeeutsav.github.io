@@ -80,10 +80,10 @@ Activities
  
 Skills
 ------
-* <b>Programming:</b> C, TCL, Perl, Python
+* <b>Programming:</b> C, TCL, Perl, Python, Sage
 * <b>HDL:</b> Verilog, BlueSpec
 * <b>CAD:</b>
-  * <b>Cadence:</b> Virtuoso, RTL Compiler, Encounter, Conformal Low Power
+  * <b>Cadence:</b> Virtuoso, Incisive, Genus (RTL Compiler), Innovus (Encounter), Conformal Low Power
   * <b>Synopsys:</b> Design Compiler, IC Compiler, PrimeTime
   * <b>Mentor Graphics:</b> Calibre
-* <b>Others:</b> MATLAB, SPICE, Sage, Vivado, Eagle
+* <b>Others:</b> MATLAB, SPICE, Vivado, Eagle
