@@ -9,7 +9,7 @@ Modern public key protocols, such as RSA and ECC, will be rendered insecure by S
 ![](/images/portfolio-2-fig1.png)
 
 Press Mentions: <a href="http://news.mit.edu/2019/securing-internet-things-in-quantum-age-0301" style="color:#0645AD;">MIT News</a>, <a href="https://spectrum.ieee.org/tech-talk/computing/embedded-systems/circuit-secures-the-iot-against-quantum-attack" style="color:#0645AD;">IEEE Spectrum</a>, <a href="https://techxplore.com/news/2019-03-internet-quantum-age.html" style="color:#0645AD;">TechXplore</a>, <a href="https://scienceblog.com/506455/securing-the-internet-of-things-in-the-quantum-age/
-" style="color:#0645AD;">Science Blog</a>
+" style="color:#0645AD;">Science Blog</a>, <a href="https://pqczoo.com/hardware/design/2019/08/09/SapphireLatticeCrypto.html" style="color:#0645AD;">PQCzoo</a>
 
 Related Publications
 ------------
