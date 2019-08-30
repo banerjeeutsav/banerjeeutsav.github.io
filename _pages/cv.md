@@ -81,12 +81,12 @@ Teaching
 
 Activities
 ----------
-* Reviewer for the following IEEE journals since 2018: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
-  * TCAS-I (Transactions on Circuits and Systems I: Regular Papers)
-  * TCAS-II (Transactions on Circuits and Systems II: Express Briefs)
-  * TVLSI (Transactions on Very Large Scale Integration Systems)
-  * JSSC (Journal of Solid-State Circuits)
-* External reviewer for IEEE Symposium on VLSI Circuits - VLSIC 2016 and VLSIC 2017
+* Reviewer for the following: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
+  * <i>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</i>, 2019.
+  * <i>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)</i>, 2019.
+  * <i>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</i>, 2019.
+  * <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, 2018.
+* External reviewer for <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016 and 2017.
  
 Skills
 ------
