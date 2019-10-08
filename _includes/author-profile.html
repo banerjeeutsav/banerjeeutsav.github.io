@@ -109,6 +109,12 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
+      {% if author.publons %}
+        <li><a href="{{ author.publons }}"><i class="ai ai-publons-square ai-fw"></i> Publons</a></li>
+      {% endif %}
+      {% if author.researchgate %}
+        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate-square ai-fw"></i> ResearchGate</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
