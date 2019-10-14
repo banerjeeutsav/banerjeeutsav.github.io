@@ -27,5 +27,5 @@ Manuscripts
 
 Theses
 ------
-* U. Banerjee, "Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security," <i>S.M. Thesis, Massachusetts Institute of Technology</i>, June 2017. [<a href="https://dspace.mit.edu/bitstream/handle/1721.1/111861/1005227047-MIT.pdf" style="color:#DF0000;">PDF</a>]
-* U. Banerjee, "Study of Thermal Effects in AlGaN/GaN High Electron Mobility Transistors (HEMTs) and Refinement of Existing Mobility and I-V Models," <i>B.Tech. Thesis, Indian Institute of Technology Kharagpur</i>, April 2013.
+* <b>U. Banerjee</b>, "Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security," <i>S.M. Thesis, Massachusetts Institute of Technology</i>, June 2017. [<a href="https://dspace.mit.edu/bitstream/handle/1721.1/111861/1005227047-MIT.pdf" style="color:#DF0000;">PDF</a>]
+* <b>U. Banerjee</b>, "Study of Thermal Effects in AlGaN/GaN High Electron Mobility Transistors (HEMTs) and Refinement of Existing Mobility and I-V Models," <i>B.Tech. Thesis, Indian Institute of Technology Kharagpur</i>, April 2013.
