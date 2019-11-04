@@ -43,7 +43,7 @@ Awards
 
 Publications
 ------------
-* <b>U. Banerjee</b>, T. S. Ukyab and A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," <i>IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)</i>, August 2019. [<a href="https://tches.iacr.org/index.php/TCHES/article/view/8344/" style="color:#0645AD;">link</a>] [<a href="https://eprint.iacr.org/2019/1140" style="color:#0645AD;">ePrint</a>] [<a href="https://banerjeeutsav.github.io/files/2019-08-01-2019-tches.pdf" style="color:#DF0000;">PDF</a>]
+* <b>U. Banerjee</b>, T. S. Ukyab and A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," <i>IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)</i>, August 2019. [<a href="https://tches.iacr.org/index.php/TCHES/article/view/8344/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1910.07557" style="color:#0645AD;">arXiv</a>] [<a href="https://eprint.iacr.org/2019/1140" style="color:#0645AD;">ePrint</a>] [<a href="https://banerjeeutsav.github.io/files/2019-08-01-2019-tches.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, A. Wright, C. Juvekar, M. Waller, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for Securing Internet-of-Things Applications," <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, May 2019. [<a href="https://ieeexplore.ieee.org/document/8721457/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1907.04455" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-05-01-2019-jssc.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, A. Pathak and A. P. Chandrakasan, "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2019. [<a href="https://ieeexplore.ieee.org/document/8662528/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1903.04570" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-02-01-2019-isscc.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, C. Juvekar, A. Wright, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2018. [<a href="https://ieeexplore.ieee.org/document/8310174/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1903.04387" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2018-02-01-2018-isscc.pdf" style="color:#DF0000;">PDF</a>]
@@ -63,6 +63,7 @@ Theses
   
 Talks
 -----
+* "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2019.
 * "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," IACR Conference on Cryptographic Hardware and Embedded Systems (CHES), Atlanta, GA, USA, August 2019. [<a href="https://ches.iacr.org/2019/src/slides/Day1/Session1_Lattice_onlypdfs/Paper3_PPT_CHES_2019_UtsavBanerjee.pdf" style="color:#0645AD;">slides</a>]
 * "Efficient Hardware Architectures for Securing the Internet of Things," Texas Instruments, Dallas, TX, USA, June 2019.
 * "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2019.
@@ -77,8 +78,13 @@ Talks
 
 Teaching
 --------
+* Guest Lecturer for <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019, MIT
+  * Instructor: Prof. Vivienne Sze
+  * Two lectures on "Combinational Circuit Design"
+  * Advanced topic lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
 * Teaching Assistant for <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT
-  * Advanced Topic Lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
+  * Instructor: Prof. Vivienne Sze
+  * Advanced topic lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
   * Designed new assignment on understanding ASIC design flow and digital architecture trade-offs
   * Graded problem sets, exams and course projects; held office hours and tutorials
   * Received overall rating of 6.7 / 7.0
