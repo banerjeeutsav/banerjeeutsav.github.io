@@ -18,8 +18,8 @@ I was awarded the President of India Gold Medal in 2013, the Irwin Mark Jacobs &
 
 Research Interests
 ------------------
-* Low Power Digital Circuits & Systems Design
 * Efficient Cryptographic Hardware & Security Protocols
+* Low Power Digital Circuits & Systems Design
 * Computer Architecture
 * Machine Learning
 
