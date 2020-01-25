@@ -97,18 +97,18 @@ Activities
 * Member, <i>IEEE Solid-State Circuits Society (SSCS)</i>, 2016 - present.
 * Member, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
 * Reviewer for the following: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
-  * <i>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</i>, 2019.
-  * <i>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)</i>, 2019.
-  * <i>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</i>, 2019.
+  * <i>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</i>, 2019, 2020.
+  * <i>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)</i>, 2019, 2020.
+  * <i>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</i>, 2019, 2020.
+  * <i>IEEE Internet of Things Journal (IoTJ)</i>, 2020.
   * <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, 2018.
 * External reviewer for <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016 and 2017.
  
 Skills
 ------
-* <b>Programming:</b> C, TCL, Perl, Python, Sage
-* <b>HDL:</b> Verilog, BlueSpec
-* <b>CAD:</b>
-  * <b>Cadence:</b> Virtuoso, Incisive, Genus (RTL Compiler), Innovus (Encounter), Conformal Low Power
+* <b>Programming:</b> C, Tcl, Perl, MATLAB, SPICE, Python, Sage
+* <b>Hardware Design:</b> Verilog HDL, BlueSpec System Verilog, Xilinx Vivado (ISE)
+* <b>EDA / CAD:</b>
+  * <b>Cadence:</b> Virtuoso, Incisive, Genus (RTL Compiler), Innovus (Encounter)
   * <b>Synopsys:</b> Design Compiler, IC Compiler, PrimeTime
-  * <b>Mentor Graphics:</b> Calibre
-* <b>Others:</b> MATLAB, SPICE, Vivado, Eagle
+  * <b>Others:</b> Calibre, Eagle
