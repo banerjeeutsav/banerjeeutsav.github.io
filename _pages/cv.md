@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
----------
+---------------
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – present)
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
@@ -34,7 +34,7 @@ Work Experience
   * Development of empirical models for early estimation of clock-tree dynamic power.
 
 Awards
------- 
+---------------
 * Qualcomm Innovation Fellowship, 2016.
 * Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT).
 * President of India Gold Medal, 2013 (IIT Kharagpur).
@@ -42,7 +42,7 @@ Awards
 * KVPY Fellowship, 2008 (IISc).
 
 Publications
-------------
+---------------
 * <b>U. Banerjee</b>, T. S. Ukyab and A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," <i>IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)</i>, August 2019. [<a href="https://tches.iacr.org/index.php/TCHES/article/view/8344/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1910.07557" style="color:#0645AD;">arXiv</a>] [<a href="https://eprint.iacr.org/2019/1140" style="color:#0645AD;">ePrint</a>] [<a href="https://banerjeeutsav.github.io/files/2019-08-01-2019-tches.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, A. Wright, C. Juvekar, M. Waller, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for Securing Internet-of-Things Applications," <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, May 2019. [<a href="https://ieeexplore.ieee.org/document/8721457/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1907.04455" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-05-01-2019-jssc.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, A. Pathak and A. P. Chandrakasan, "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2019. [<a href="https://ieeexplore.ieee.org/document/8662528/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1903.04570" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-02-01-2019-isscc.pdf" style="color:#DF0000;">PDF</a>]
@@ -52,18 +52,18 @@ Publications
 * P. Mukhopadhyay, A. Bag, U. Gomes, <b>U. Banerjee</b>, S. Ghosh, S. Kabi, E. Y. I. Chang, A. Dabiran, P. Chow and D. Biswas, "Comparative DC Characteristic Analysis of AlGaN/GaN HEMTs Grown on Si(111) and Sapphire Substrates by MBE," <i>IEEE/TMS Journal of Electronic Materials</i>, April 2014. [<a href="https://doi.org/10.1007/s11664-014-3050-4" style="color:#0645AD;">link</a>]
 
 Manuscripts
------------
+---------------
 * <b>U. Banerjee</b> and A. P. Chandrakasan, "Sapphire-Sim: Macro-Op-Level Simulator for Ring-LWE and Module-LWE Hardware Acceleration," December 2019. [<a href="https://github.com/banerjeeutsav/sapphire_sim" style="color:#0645AD;">GitHub</a>] [<a href="https://banerjeeutsav.github.io/files/2019-sapphire-sim-documentation.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, T. S. Ukyab and A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols (Extended Version)," October 2019. [<a href="https://eprint.iacr.org/2019/1140.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, L. Ho and S. Koppula, "Power-Based Side-Channel Attack for AES Key Extraction on the ATMega328 Microcontroller," December 2015. [<a href="http://css.csail.mit.edu/6.858/2015/projects/utsav-lisayz-skoppula.pdf" style="color:#DF0000;">PDF</a>]
 
 Theses
-------
+---------------
 * <b>U. Banerjee</b>, "Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security," <i>S.M. Thesis, Massachusetts Institute of Technology</i>, June 2017. [<a href="https://dspace.mit.edu/bitstream/handle/1721.1/111861/1005227047-MIT.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, "Study of Thermal Effects in AlGaN/GaN High Electron Mobility Transistors (HEMTs) and Refinement of Existing Mobility and I-V Models," <i>B.Tech. Thesis, Indian Institute of Technology Kharagpur</i>, April 2013.
   
 Talks
------
+---------------
 * "An Energy-Efficient Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, November 2019. [<a href="https://cics.mit.edu/wp-content/uploads/2019/11/Utsav-Banerjee-An-Energy-Efficient-Configurable-Crypto-Processor-for-Post-Quantum-Lattice-based-Protocols.pdf" style="color:#0645AD;">slides</a>]
 * "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2019.
 * "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," IACR Conference on Cryptographic Hardware and Embedded Systems (CHES), Atlanta, GA, USA, August 2019. [<a href="https://ches.iacr.org/2019/src/slides/Day1/Session1_Lattice_onlypdfs/Paper3_PPT_CHES_2019_UtsavBanerjee.pdf" style="color:#0645AD;">slides</a>] [<a href="https://www.youtube.com/watch?v=KLmIsDpoPCU" style="color:#0645AD;">video</a>]
@@ -79,7 +79,7 @@ Talks
 * "Towards Energy-Efficient Transport Layer Security for the Internet of Things," Analog Devices, Wilmington, MA, USA, October 2016.
 
 Teaching
---------
+---------------
 * Guest Lecturer for <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019, MIT
   * Instructor: Prof. Vivienne Sze
   * Two lectures on "Combinational Circuit Design"
@@ -92,7 +92,7 @@ Teaching
   * Received overall rating of 6.7 / 7.0
 
 Activities
-----------
+---------------
 * Student Member, <i>IEEE</i>, 2015 - present.
 * Member, <i>IEEE Solid-State Circuits Society (SSCS)</i>, 2016 - present.
 * Member, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
@@ -105,7 +105,7 @@ Activities
 * External reviewer for <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016 and 2017.
  
 Skills
-------
+---------------
 * <b>Programming:</b> C, Tcl, Perl, MATLAB, SPICE, Python, Sage
 * <b>Hardware Design:</b> Verilog HDL, BlueSpec System Verilog, Xilinx Vivado (ISE)
 * <b>EDA / CAD:</b>
