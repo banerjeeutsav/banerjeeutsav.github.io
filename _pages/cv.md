@@ -99,7 +99,7 @@ Activities
 * Student Member, <i>IEEE</i>, 2015 - present.
 * Member, <i>IEEE Solid-State Circuits Society (SSCS)</i>, 2016 - present.
 * Member, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
-* Reviewer for the following: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
+* Reviewer for the following journals: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
   * <i>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</i>, 2019, 2020.
   * <i>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)</i>, 2019, 2020.
   * <i>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</i>, 2019, 2020.

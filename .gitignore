@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Archived profile photos
+images/profile_*.png
