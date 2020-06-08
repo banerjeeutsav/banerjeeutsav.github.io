@@ -44,7 +44,7 @@ Awards
 Publications
 ---------------
 * <b>U. Banerjee</b>, S. Das and A. P. Chandrakasan, "Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor," <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i>, October 2020. (to appear)
-* <b>U. Banerjee</b> and A. P. Chandrakasan, "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices," <i>IEEE International Conference on Communications (ICC)</i>, June 2020. (to appear)
+* <b>U. Banerjee</b> and A. P. Chandrakasan, "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices," <i>IEEE International Conference on Communications (ICC)</i>, June 2020.
 * S. Maji, <b>U. Banerjee</b>, S. H. Fuller, M. R. Abdelhamid, P. M. Nadeau, R. T. Yazicigil and A. P. Chandrakasan, "A Low-Power Dual-Factor Authentication Unit for Secure Implantable Devices," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, March 2020. [<a href="https://ieeexplore.ieee.org/document/9075945/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/2004.13709" style="color:#0645AD;">arXiv</a>]
 * <b>U. Banerjee</b>, T. S. Ukyab and A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," <i>IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)</i>, August 2019. [<a href="https://tches.iacr.org/index.php/TCHES/article/view/8344/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1910.07557" style="color:#0645AD;">arXiv</a>] [<a href="https://eprint.iacr.org/2019/1140" style="color:#0645AD;">ePrint</a>] [<a href="https://banerjeeutsav.github.io/files/2019-08-01-2019-tches.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, A. Wright, C. Juvekar, M. Waller, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for Securing Internet-of-Things Applications," <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, May 2019. [<a href="https://ieeexplore.ieee.org/document/8721457/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1907.04455" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-05-01-2019-jssc.pdf" style="color:#DF0000;">PDF</a>]
@@ -67,6 +67,7 @@ Theses
   
 Talks
 ---------------
+* "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices", IEEE International Conference on Communications (ICC), Virtual Conference, June 2020.
 * "An Energy-Efficient Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, November 2019. [<a href="https://cics.mit.edu/wp-content/uploads/2019/11/Utsav-Banerjee-An-Energy-Efficient-Configurable-Crypto-Processor-for-Post-Quantum-Lattice-based-Protocols.pdf" style="color:#0645AD;">slides</a>]
 * "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2019.
 * "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," IACR Conference on Cryptographic Hardware and Embedded Systems (CHES), Atlanta, GA, USA, August 2019. [<a href="https://ches.iacr.org/2019/src/slides/Day1/Session1_Lattice_onlypdfs/Paper3_PPT_CHES_2019_UtsavBanerjee.pdf" style="color:#0645AD;">slides</a>] [<a href="https://www.youtube.com/watch?v=KLmIsDpoPCU" style="color:#0645AD;">video</a>]
@@ -83,11 +84,11 @@ Talks
 
 Teaching
 ---------------
-* Guest Lecturer for <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019, MIT
+* Guest Lecturer, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019, MIT
   * Instructor: Prof. Vivienne Sze
   * Two lectures on "Combinational Circuit Design"
   * Advanced topic lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
-* Teaching Assistant for <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT
+* Teaching Assistant, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT
   * Instructor: Prof. Vivienne Sze
   * Advanced topic lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
   * Designed new assignment on understanding ASIC design flow and digital architecture trade-offs
@@ -96,16 +97,19 @@ Teaching
 
 Activities
 ---------------
-* Student Member, <i>IEEE</i>, 2015 - present.
-* Member, <i>IEEE Solid-State Circuits Society (SSCS)</i>, 2016 - present.
-* Member, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
-* Reviewer for the following journals: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
+* Session Chair, <i>Communication and Information Systems Security (CISS) Symposium - Session 9: Crypto II</i>, <i>IEEE International Conference on Communications (ICC)</i>, Virtual Conference, June 2020.
+* Reviewer: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
+  * <i>IEEE Internet of Things Journal (IoTJ)</i>, 2020.
+  * <i>Springer Journal of Cryptographic Engineering (JCEN)</i>, 2020.
   * <i>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</i>, 2019, 2020.
   * <i>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)</i>, 2019, 2020.
   * <i>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</i>, 2019, 2020.
-  * <i>IEEE Internet of Things Journal (IoTJ)</i>, 2020.
   * <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, 2018.
-* External reviewer for <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016 and 2017.
+* External Reviewer, <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016 and 2017.
+* Student Member, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
+* Student Member, <i>International Association for Cryptologic Research (IACR)</i>, 2016 - present.
+* Member, <i>IEEE Solid-State Circuits Society (SSCS)</i>, 2016 - present.
+* Member, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
  
 Skills
 ---------------
