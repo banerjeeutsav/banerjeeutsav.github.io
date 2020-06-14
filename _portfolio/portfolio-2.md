@@ -1,5 +1,5 @@
 ---
-title: "Energy-Efficient Reconfigurable Quantum-Secure Lattice Cryptography Processor"
+title: "Energy-Efficient Configurable Quantum-Secure Lattice Cryptography Processor"
 excerpt: "<br/><img src='/images/portfolio-2-cover.png'>"
 collection: portfolio
 ---
