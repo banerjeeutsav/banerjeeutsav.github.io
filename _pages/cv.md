@@ -17,8 +17,8 @@ Education
   * GPA: 5.0 / 5.0
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2015 – 2017)
   * S.M. in Electrical Engineering & Computer Science
-  * Thesis Title: <i>Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security</i>
   * Advisor: Prof. Anantha P. Chandrakasan
+  * Thesis Title: <i>Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security</i>
   * GPA: 5.0 / 5.0
 * <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, India (2009 – 2013)
   * B.Tech. (Hons.) in Electronics & Electrical Communication Engineering
