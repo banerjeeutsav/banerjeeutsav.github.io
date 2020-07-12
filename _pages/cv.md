@@ -92,7 +92,7 @@ Teaching
 Service
 ---------------
 * <b>Session Chair</b>, <i>Communication and Information Systems Security (CISS) Symposium - Session 9: Crypto II</i>, <i>IEEE International Conference on Communications (ICC)</i>, Virtual Conference, June 2020.
-* <b>Reviewer</b>: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
+* <b>Reviewer</b>:
   * <i>IEEE Internet of Things Journal (IoTJ)</i>, 2020.
   * <i>Springer Journal of Cryptographic Engineering (JCEN)</i>, 2020.
   * <i>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</i>, 2019, 2020.
