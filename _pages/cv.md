@@ -78,11 +78,11 @@ Talks
 
 Teaching
 ---------------
-* Guest Lecturer, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019, MIT
+* <b>Guest Lecturer</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019, MIT
   * Instructor: Prof. Vivienne Sze
   * Two lectures on "Combinational Circuit Design"
   * Advanced topic lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
-* Teaching Assistant, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT
+* <b>Teaching Assistant</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT
   * Instructor: Prof. Vivienne Sze
   * Advanced topic lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
   * Designed new assignment on understanding ASIC design flow and digital architecture trade-offs
@@ -91,15 +91,16 @@ Teaching
 
 Service
 ---------------
-* Session Chair, <i>Communication and Information Systems Security (CISS) Symposium - Session 9: Crypto II</i>, <i>IEEE International Conference on Communications (ICC)</i>, Virtual Conference, June 2020.
-* Reviewer: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
+* <b>Session Chair</b>, <i>Communication and Information Systems Security (CISS) Symposium - Session 9: Crypto II</i>, <i>IEEE International Conference on Communications (ICC)</i>, Virtual Conference, June 2020.
+* <b>Reviewer</b>: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
   * <i>IEEE Internet of Things Journal (IoTJ)</i>, 2020.
   * <i>Springer Journal of Cryptographic Engineering (JCEN)</i>, 2020.
   * <i>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)</i>, 2019, 2020.
   * <i>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)</i>, 2019, 2020.
   * <i>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</i>, 2019, 2020.
   * <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, 2018.
-* External Reviewer, <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016 and 2017.
+* <b>Deputy Reviewer</b>, <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016 and 2017.
+
 <!--
 * Student Member, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
 * Student Member, <i>International Association for Cryptologic Research (IACR)</i>, 2016 - present.
