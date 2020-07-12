@@ -23,6 +23,11 @@ Journals
 * P. Mukhopadhyay, <b>U. Banerjee</b>, A. Bag, S. Ghosh and D. Biswas, "Influence of Growth Morphology on Electrical and Thermal Modeling of AlGaN/GaN HEMT on Sapphire and Silicon," <i>Solid-State Electronics</i>, February 2015. [<a href="https://doi.org/10.1016/j.sse.2014.11.017" style="color:#0645AD;">link</a>]
 * P. Mukhopadhyay, A. Bag, U. Gomes, <b>U. Banerjee</b>, S. Ghosh, S. Kabi, E. Y. I. Chang, A. Dabiran, P. Chow and D. Biswas, "Comparative DC Characteristic Analysis of AlGaN/GaN HEMTs Grown on Si(111) and Sapphire Substrates by MBE," <i>IEEE/TMS Journal of Electronic Materials</i>, April 2014. [<a href="https://doi.org/10.1007/s11664-014-3050-4" style="color:#0645AD;">link</a>]
 
+Patents
+---------------
+* <b>U. Banerjee</b> and A. P. Chandrakasan, "Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things and Related Techniques," <i>U.S. Patent Application</i>, February 2020.
+* A. P. Chandrakasan, C. Juvekar and <b>U. Banerjee</b>, "Systems and Methods for Providing Secure Communications using a Protocol Engine," <i>U.S. Patent Application</i>, February 2019. [<a href="https://patents.google.com/patent/US20190253396A1/en" style="color:#0645AD;">link</a>]
+
 Manuscripts
 ---------------
 * <b>U. Banerjee</b> and A. P. Chandrakasan, "Sapphire-Sim: Macro-Op-Level Simulator for Ring-LWE and Module-LWE Hardware Acceleration," December 2019. [<a href="https://github.com/banerjeeutsav/sapphire_sim" style="color:#0645AD;">GitHub</a>] [<a href="https://banerjeeutsav.github.io/files/2019-sapphire-sim-documentation.pdf" style="color:#DF0000;">PDF</a>]

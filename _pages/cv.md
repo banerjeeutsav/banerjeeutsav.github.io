@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---------------
-* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – present)
+* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – 2021 (expected))
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
   * GPA: 5.0 / 5.0
@@ -43,27 +43,21 @@ Awards
 
 Publications
 ---------------
-* <b>U. Banerjee</b>, S. Das and A. P. Chandrakasan, "Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor," <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i>, October 2020. (to appear)
-* <b>U. Banerjee</b> and A. P. Chandrakasan, "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices," <i>IEEE International Conference on Communications (ICC)</i>, June 2020.
-* S. Maji, <b>U. Banerjee</b>, S. H. Fuller, M. R. Abdelhamid, P. M. Nadeau, R. T. Yazicigil and A. P. Chandrakasan, "A Low-Power Dual-Factor Authentication Unit for Secure Implantable Devices," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, March 2020. [<a href="https://ieeexplore.ieee.org/document/9075945/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/2004.13709" style="color:#0645AD;">arXiv</a>]
-* <b>U. Banerjee</b>, T. S. Ukyab and A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," <i>IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)</i>, August 2019. [<a href="https://tches.iacr.org/index.php/TCHES/article/view/8344/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1910.07557" style="color:#0645AD;">arXiv</a>] [<a href="https://eprint.iacr.org/2019/1140" style="color:#0645AD;">ePrint</a>] [<a href="https://banerjeeutsav.github.io/files/2019-08-01-2019-tches.pdf" style="color:#DF0000;">PDF</a>]
-* <b>U. Banerjee</b>, A. Wright, C. Juvekar, M. Waller, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for Securing Internet-of-Things Applications," <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, May 2019. [<a href="https://ieeexplore.ieee.org/document/8721457/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1907.04455" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-05-01-2019-jssc.pdf" style="color:#DF0000;">PDF</a>]
-* <b>U. Banerjee</b>, A. Pathak and A. P. Chandrakasan, "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2019. [<a href="https://ieeexplore.ieee.org/document/8662528/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1903.04570" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-02-01-2019-isscc.pdf" style="color:#DF0000;">PDF</a>]
-* <b>U. Banerjee</b>, C. Juvekar, A. Wright, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2018. [<a href="https://ieeexplore.ieee.org/document/8310174/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1903.04387" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2018-02-01-2018-isscc.pdf" style="color:#DF0000;">PDF</a>]
-* <b>U. Banerjee</b>, C. Juvekar, S. H. Fuller and A. P. Chandrakasan, "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," <i>IEEE Global Communications Conference (GLOBECOM)</i>, December 2017. [<a href="https://ieeexplore.ieee.org/document/8255053/" style="color:#0645AD;">link</a>] [<a href="https://banerjeeutsav.github.io/files/2017-12-01-2017-globecom.pdf" style="color:#DF0000;">PDF</a>]
-* P. Mukhopadhyay, <b>U. Banerjee</b>, A. Bag, S. Ghosh and D. Biswas, "Influence of Growth Morphology on Electrical and Thermal Modeling of AlGaN/GaN HEMT on Sapphire and Silicon," <i>Solid-State Electronics</i>, February 2015. [<a href="https://doi.org/10.1016/j.sse.2014.11.017" style="color:#0645AD;">link</a>]
-* P. Mukhopadhyay, A. Bag, U. Gomes, <b>U. Banerjee</b>, S. Ghosh, S. Kabi, E. Y. I. Chang, A. Dabiran, P. Chow and D. Biswas, "Comparative DC Characteristic Analysis of AlGaN/GaN HEMTs Grown on Si(111) and Sapphire Substrates by MBE," <i>IEEE/TMS Journal of Electronic Materials</i>, April 2014. [<a href="https://doi.org/10.1007/s11664-014-3050-4" style="color:#0645AD;">link</a>]
-
-Manuscripts
----------------
-* <b>U. Banerjee</b> and A. P. Chandrakasan, "Sapphire-Sim: Macro-Op-Level Simulator for Ring-LWE and Module-LWE Hardware Acceleration," December 2019. [<a href="https://github.com/banerjeeutsav/sapphire_sim" style="color:#0645AD;">GitHub</a>] [<a href="https://banerjeeutsav.github.io/files/2019-sapphire-sim-documentation.pdf" style="color:#DF0000;">PDF</a>]
-* <b>U. Banerjee</b>, T. S. Ukyab and A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols (Extended Version)," October 2019. [<a href="https://eprint.iacr.org/2019/1140.pdf" style="color:#DF0000;">PDF</a>]
-* <b>U. Banerjee</b>, L. Ho and S. Koppula, "Power-Based Side-Channel Attack for AES Key Extraction on the ATMega328 Microcontroller," December 2015. [<a href="http://css.csail.mit.edu/6.858/2015/projects/utsav-lisayz-skoppula.pdf" style="color:#DF0000;">PDF</a>]
-
-Theses
----------------
-* <b>U. Banerjee</b>, "Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security," <i>S.M. Thesis, Massachusetts Institute of Technology</i>, June 2017. [<a href="https://dspace.mit.edu/bitstream/handle/1721.1/111861/1005227047-MIT.pdf" style="color:#DF0000;">PDF</a>]
-* <b>U. Banerjee</b>, "Study of Thermal Effects in AlGaN/GaN High Electron Mobility Transistors (HEMTs) and Refinement of Existing Mobility and I-V Models," <i>B.Tech. Thesis, Indian Institute of Technology Kharagpur</i>, April 2013.
+* Conferences:
+  * <b>U. Banerjee</b>, S. Das and A. P. Chandrakasan, "Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor," <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i>, October 2020. (to appear)
+  * <b>U. Banerjee</b> and A. P. Chandrakasan, "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices," <i>IEEE International Conference on Communications (ICC)</i>, June 2020.
+  * S. Maji, <b>U. Banerjee</b>, S. H. Fuller, M. R. Abdelhamid, P. M. Nadeau, R. T. Yazicigil and A. P. Chandrakasan, "A Low-Power Dual-Factor Authentication Unit for Secure Implantable Devices," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, March 2020. [<a href="https://ieeexplore.ieee.org/document/9075945/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/2004.13709" style="color:#0645AD;">arXiv</a>]
+  * <b>U. Banerjee</b>, A. Pathak and A. P. Chandrakasan, "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2019. [<a href="https://ieeexplore.ieee.org/document/8662528/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1903.04570" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-02-01-2019-isscc.pdf" style="color:#DF0000;">PDF</a>]
+  * <b>U. Banerjee</b>, C. Juvekar, A. Wright, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2018. [<a href="https://ieeexplore.ieee.org/document/8310174/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1903.04387" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2018-02-01-2018-isscc.pdf" style="color:#DF0000;">PDF</a>]
+  * <b>U. Banerjee</b>, C. Juvekar, S. H. Fuller and A. P. Chandrakasan, "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," <i>IEEE Global Communications Conference (GLOBECOM)</i>, December 2017. [<a href="https://ieeexplore.ieee.org/document/8255053/" style="color:#0645AD;">link</a>] [<a href="https://banerjeeutsav.github.io/files/2017-12-01-2017-globecom.pdf" style="color:#DF0000;">PDF</a>]
+* Journals:
+  * <b>U. Banerjee</b>, T. S. Ukyab and A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," <i>IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)</i>, August 2019. [<a href="https://tches.iacr.org/index.php/TCHES/article/view/8344/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1910.07557" style="color:#0645AD;">arXiv</a>] [<a href="https://eprint.iacr.org/2019/1140" style="color:#0645AD;">ePrint</a>] [<a href="https://banerjeeutsav.github.io/files/2019-08-01-2019-tches.pdf" style="color:#DF0000;">PDF</a>]
+  * <b>U. Banerjee</b>, A. Wright, C. Juvekar, M. Waller, Arvind and A. P. Chandrakasan, "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for Securing Internet-of-Things Applications," <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, May 2019. [<a href="https://ieeexplore.ieee.org/document/8721457/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1907.04455" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-05-01-2019-jssc.pdf" style="color:#DF0000;">PDF</a>]
+  * P. Mukhopadhyay, <b>U. Banerjee</b>, A. Bag, S. Ghosh and D. Biswas, "Influence of Growth Morphology on Electrical and Thermal Modeling of AlGaN/GaN HEMT on Sapphire and Silicon," <i>Solid-State Electronics</i>, February 2015. [<a href="https://doi.org/10.1016/j.sse.2014.11.017" style="color:#0645AD;">link</a>]
+  * P. Mukhopadhyay, A. Bag, U. Gomes, <b>U. Banerjee</b>, S. Ghosh, S. Kabi, E. Y. I. Chang, A. Dabiran, P. Chow and D. Biswas, "Comparative DC Characteristic Analysis of AlGaN/GaN HEMTs Grown on Si(111) and Sapphire Substrates by MBE," <i>IEEE/TMS Journal of Electronic Materials</i>, April 2014. [<a href="https://doi.org/10.1007/s11664-014-3050-4" style="color:#0645AD;">link</a>]
+* Patents:
+  * <b>U. Banerjee</b> and A. P. Chandrakasan, "Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things and Related Techniques," <i>U.S. Patent Application</i>, February 2020.
+  * A. P. Chandrakasan, C. Juvekar and <b>U. Banerjee</b>, "Systems and Methods for Providing Secure Communications using a Protocol Engine," <i>U.S. Patent Application</i>, February 2019. [<a href="https://patents.google.com/patent/US20190253396A1/en" style="color:#0645AD;">link</a>]
   
 Talks
 ---------------
@@ -95,7 +89,7 @@ Teaching
   * Graded problem sets, exams and course projects; held office hours and tutorials
   * Received overall rating of 6.7 / 7.0
 
-Activities
+Service
 ---------------
 * Session Chair, <i>Communication and Information Systems Security (CISS) Symposium - Session 9: Crypto II</i>, <i>IEEE International Conference on Communications (ICC)</i>, Virtual Conference, June 2020.
 * Reviewer: [<a href="https://publons.com/researcher/3011781/utsav-banerjee" style="color:#0645AD;">publons</a>]
@@ -106,11 +100,14 @@ Activities
   * <i>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</i>, 2019, 2020.
   * <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, 2018.
 * External Reviewer, <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016 and 2017.
+<!--
 * Student Member, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
 * Student Member, <i>International Association for Cryptologic Research (IACR)</i>, 2016 - present.
 * Member, <i>IEEE Solid-State Circuits Society (SSCS)</i>, 2016 - present.
 * Member, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
- 
+-->
+
+<!-- 
 Skills
 ---------------
 * <b>Programming:</b> C, Tcl, Perl, MATLAB, SPICE, Python, Sage
@@ -119,3 +116,4 @@ Skills
   * <b>Cadence:</b> Virtuoso, Incisive, Genus (RTL Compiler), Innovus (Encounter)
   * <b>Synopsys:</b> Design Compiler, IC Compiler, PrimeTime
   * <b>Others:</b> Calibre, Eagle
+-->
