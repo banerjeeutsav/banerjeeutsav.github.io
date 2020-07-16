@@ -14,6 +14,7 @@ Education
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – 2021 (expected))
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
+  * Minor Area: <i>Quantum and Solid-State Physics</i>
   * GPA: 5.0 / 5.0
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2015 – 2017)
   * S.M. in Electrical Engineering & Computer Science
@@ -33,8 +34,9 @@ Work Experience
 * Engineering Intern, <b>Qualcomm</b>, Bangalore, India (May 2012 – July 2012)
   * Development of empirical models for early estimation of clock-tree dynamic power.
 
-Awards
+Awards and Fellowships
 ---------------
+* IACR CHES Student Travel Award, 2019.
 * Qualcomm Innovation Fellowship, 2016.
 * Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT).
 * President of India Gold Medal, 2013 (IIT Kharagpur).
