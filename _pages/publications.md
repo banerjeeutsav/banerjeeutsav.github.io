@@ -32,7 +32,7 @@ Manuscripts
 ---------------
 * <b>U. Banerjee</b>, A. P. Chandrakasan, "Sapphire-Sim: Macro-Op-Level Simulator for Ring-LWE and Module-LWE Hardware Acceleration," December 2019. [<a href="https://github.com/banerjeeutsav/sapphire_sim" style="color:#0645AD;">GitHub</a>] [<a href="https://banerjeeutsav.github.io/files/2019-sapphire-sim-documentation.pdf" style="color:#DF0000;">PDF</a>]
 * <b>U. Banerjee</b>, T. S. Ukyab, A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols (Extended Version)," October 2019. [<a href="https://eprint.iacr.org/2019/1140.pdf" style="color:#DF0000;">PDF</a>]
-* <b>U. Banerjee</b>, L. Ho, S. Koppula, "Power-Based Side-Channel Attack for AES Key Extraction on the ATMega328 Microcontroller," December 2015. [<a href="http://css.csail.mit.edu/6.858/2015/projects/utsav-lisayz-skoppula.pdf" style="color:#DF0000;">PDF</a>]
+* <b>U. Banerjee</b>, L. Ho, S. Koppula, "Power-Based Side-Channel Attack for AES Key Extraction on the ATMega328 Microcontroller," December 2015. [<a href="https://css.csail.mit.edu/6.858/2015/projects/utsav-lisayz-skoppula.pdf" style="color:#DF0000;">PDF</a>]
 
 Theses
 ---------------
