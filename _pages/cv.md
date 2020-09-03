@@ -36,7 +36,6 @@ Work Experience
 
 Awards and Fellowships
 ---------------
-* IACR CHES Student Travel Award, 2019.
 * Qualcomm Innovation Fellowship, 2016.
 * Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT).
 * President of India Gold Medal, 2013 (IIT Kharagpur).
@@ -63,6 +62,7 @@ Publications
   
 Talks
 ---------------
+* "A Low-Power Side-Channel-Secure Configurable Accelerator for Post-Quantum Lattice-Based Cryptography", ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Design Contest Demo Session, Virtual Conference, August 2020. [<a href="https://banerjeeutsav.github.io/files/2020-islped-design-contest-demo-proposal.pdf" style="color:#0645AD;">abstract</a>]
 * "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices", IEEE International Conference on Communications (ICC), Virtual Conference, June 2020.
 * "An Energy-Efficient Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, November 2019. [<a href="https://cics.mit.edu/wp-content/uploads/2019/11/Utsav-Banerjee-An-Energy-Efficient-Configurable-Crypto-Processor-for-Post-Quantum-Lattice-based-Protocols.pdf" style="color:#0645AD;">slides</a>]
 * "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2019.
