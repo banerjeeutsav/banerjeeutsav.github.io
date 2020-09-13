@@ -101,7 +101,7 @@ Service
   * <i>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)</i>, 2019, 2020.
   * <i>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</i>, 2019, 2020.
   * <i>IEEE Journal of Solid-State Circuits (JSSC)</i>, 2018.
-* <b>Deputy Reviewer</b>, <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016 and 2017.
+* <b>Deputy Reviewer</b>, <i>IEEE Symposium on VLSI Circuits (VLSIC)</i>, 2016, 2017.
 
 <!--
 * Student Member, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
