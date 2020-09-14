@@ -25,7 +25,7 @@ Journals
 
 Patents
 ---------------
-* <b>U. Banerjee</b>, A. P. Chandrakasan, "Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things and Related Techniques," <i>U.S. Patent Application</i>, February 2020.
+* <b>U. Banerjee</b>, A. P. Chandrakasan, "Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things and Related Techniques," <i>U.S. Patent Application</i>, February 2020. [<a href="https://patents.google.com/patent/US20200265167A1/en" style="color:#0645AD;">link</a>]
 * A. P. Chandrakasan, C. Juvekar, <b>U. Banerjee</b>, "Systems and Methods for Providing Secure Communications using a Protocol Engine," <i>U.S. Patent Application</i>, February 2019. [<a href="https://patents.google.com/patent/US20190253396A1/en" style="color:#0645AD;">link</a>]
 
 Manuscripts

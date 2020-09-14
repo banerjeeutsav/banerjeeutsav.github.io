@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---------------
-* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – 2021 (expected))
+* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – 2021)
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
   * Minor Area: <i>Quantum and Solid-State Physics</i>
@@ -57,7 +57,7 @@ Publications
   * P. Mukhopadhyay, <b>U. Banerjee</b>, A. Bag, S. Ghosh, D. Biswas, "Influence of Growth Morphology on Electrical and Thermal Modeling of AlGaN/GaN HEMT on Sapphire and Silicon," <i>Solid-State Electronics</i>, February 2015. [<a href="https://doi.org/10.1016/j.sse.2014.11.017" style="color:#0645AD;">link</a>]
   * P. Mukhopadhyay, A. Bag, U. Gomes, <b>U. Banerjee</b>, S. Ghosh, S. Kabi, E. Y. I. Chang, A. Dabiran, P. Chow, D. Biswas, "Comparative DC Characteristic Analysis of AlGaN/GaN HEMTs Grown on Si(111) and Sapphire Substrates by MBE," <i>IEEE/TMS Journal of Electronic Materials</i>, April 2014. [<a href="https://doi.org/10.1007/s11664-014-3050-4" style="color:#0645AD;">link</a>]
 * <b>Patents:</b>
-  * <b>U. Banerjee</b>, A. P. Chandrakasan, "Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things and Related Techniques," <i>U.S. Patent Application</i>, February 2020.
+  * <b>U. Banerjee</b>, A. P. Chandrakasan, "Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things and Related Techniques," <i>U.S. Patent Application</i>, February 2020. [<a href="https://patents.google.com/patent/US20200265167A1/en" style="color:#0645AD;">link</a>]
   * A. P. Chandrakasan, C. Juvekar, <b>U. Banerjee</b>, "Systems and Methods for Providing Secure Communications using a Protocol Engine," <i>U.S. Patent Application</i>, February 2019. [<a href="https://patents.google.com/patent/US20190253396A1/en" style="color:#0645AD;">link</a>]
   
 Talks
