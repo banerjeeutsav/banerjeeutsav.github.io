@@ -21,7 +21,7 @@ Education
   * Advisor: Prof. Anantha P. Chandrakasan
   * Thesis Title: <i>Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security</i>
   * GPA: 5.0 / 5.0
-* <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, India (2009 – 2013)
+* <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, WB, India (2009 – 2013)
   * B.Tech. (Hons.) in Electronics & Electrical Communication Engineering
   * GPA: 9.79 / 10.00
 
@@ -29,14 +29,14 @@ Work Experience
 ---------------
 * Design Intern, <b>Analog Devices</b>, Wilmington, MA, USA (June 2017 – August 2017)
   * Implementation of low-cost data encryption protocols and hardware based on compressed sensing theory.
-* Associate Engineer, <b>Qualcomm</b>, Bangalore, India (June 2013 – March 2015)
+* Associate Engineer, <b>Qualcomm</b>, Bengaluru, KA, India (June 2013 – March 2015)
   * Design and verification of power management architectures for Snapdragon mobile SoCs.
-* Engineering Intern, <b>Qualcomm</b>, Bangalore, India (May 2012 – July 2012)
+* Engineering Intern, <b>Qualcomm</b>, Bengaluru, KA, India (May 2012 – July 2012)
   * Development of empirical models for early estimation of clock-tree dynamic power.
 
 Awards and Fellowships
 ---------------
-* Qualcomm Innovation Fellowship, 2016.
+* Qualcomm Innovation Fellowship, 2016 (and finalist in 2020).
 * Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT).
 * President of India Gold Medal, 2013 (IIT Kharagpur).
 * Institute Silver Medal, 2013 (IIT Kharagpur).
@@ -45,7 +45,7 @@ Awards and Fellowships
 Publications
 ---------------
 * <b>Conferences:</b>
-  * <b>U. Banerjee</b>, S. Das, A. P. Chandrakasan, "Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor," <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i>, October 2020. (to appear)
+  * <b>U. Banerjee</b>, S. Das, A. P. Chandrakasan, "Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor," <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i>, October 2020. [<a href="https://ieeexplore.ieee.org/document/9180550/" style="color:#0645AD;">link</a>]
   * <b>U. Banerjee</b>, A. P. Chandrakasan, "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices," <i>IEEE International Conference on Communications (ICC)</i>, June 2020. [<a href="https://ieeexplore.ieee.org/document/9148829/" style="color:#0645AD;">link</a>]
   * S. Maji, <b>U. Banerjee</b>, S. H. Fuller, M. R. Abdelhamid, P. M. Nadeau, R. T. Yazicigil, A. P. Chandrakasan, "A Low-Power Dual-Factor Authentication Unit for Secure Implantable Devices," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, March 2020. [<a href="https://ieeexplore.ieee.org/document/9075945/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/2004.13709" style="color:#0645AD;">arXiv</a>]
   * <b>U. Banerjee</b>, A. Pathak, A. P. Chandrakasan, "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2019. [<a href="https://ieeexplore.ieee.org/document/8662528/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1903.04570" style="color:#0645AD;">arXiv</a>] [<a href="https://banerjeeutsav.github.io/files/2019-02-01-2019-isscc.pdf" style="color:#DF0000;">PDF</a>]
@@ -82,7 +82,7 @@ Teaching
 ---------------
 * <b>Guest Lecturer</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019, MIT
   * Instructor: Prof. Vivienne Sze
-  * Two lectures on "Combinational Circuit Design"
+  * Two lectures on "Combinational Logic Design"
   * Advanced topic lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
 * <b>Teaching Assistant</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT
   * Instructor: Prof. Vivienne Sze
