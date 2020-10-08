@@ -14,7 +14,7 @@ Education
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – 2021)
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
-  * Minor Area: <i>Quantum and Solid-State Physics</i>
+  * Minor: <i>Quantum and Solid-State Physics</i>
   * GPA: 5.0 / 5.0
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2015 – 2017)
   * S.M. in Electrical Engineering & Computer Science
@@ -62,6 +62,7 @@ Publications
   
 Talks
 ---------------
+* "Circuits and Architectures for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2020.
 * "A Low-Power Side-Channel-Secure Configurable Accelerator for Post-Quantum Lattice-Based Cryptography", ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Design Contest Demo Session, Virtual Conference, August 2020. [<a href="https://banerjeeutsav.github.io/files/2020-islped-design-contest-demo-proposal.pdf" style="color:#0645AD;">abstract</a>]
 * "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices", IEEE International Conference on Communications (ICC), Virtual Conference, June 2020.
 * "An Energy-Efficient Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, November 2019. [<a href="https://cics.mit.edu/wp-content/uploads/2019/11/Utsav-Banerjee-An-Energy-Efficient-Configurable-Crypto-Processor-for-Post-Quantum-Lattice-based-Protocols.pdf" style="color:#0645AD;">slides</a>]
@@ -80,6 +81,9 @@ Talks
 
 Teaching
 ---------------
+* <b>Guest Lecturer</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2020, MIT
+  * Instructor: Prof. Vivienne Sze
+  * Advanced topic lecture on "Circuits and Architectures for Cryptography and Hardware Security"
 * <b>Guest Lecturer</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019, MIT
   * Instructor: Prof. Vivienne Sze
   * Two lectures on "Combinational Logic Design"
@@ -87,8 +91,9 @@ Teaching
 * <b>Teaching Assistant</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT
   * Instructor: Prof. Vivienne Sze
   * Advanced topic lecture on "Efficient Circuits and Systems for Cryptography and Hardware Security"
-  * Designed new assignment on understanding ASIC design flow and digital architecture trade-offs
-  * Graded problem sets, exams and course projects; held office hours and tutorials
+  * Designed new assignment on ASIC design flow and digital architecture trade-offs
+  * Assisted in curation of relevant research papers for the new paper review assignment
+  * Graded homework problem sets, exams and course projects; held office hours and tutorials
   * Received overall rating of 6.7 / 7.0
 
 Service
