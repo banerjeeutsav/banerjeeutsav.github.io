@@ -62,6 +62,7 @@ Publications
   
 Talks
 ---------------
+* "Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor," IEEE International Symposium on Circuits and Systems (ISCAS), Virtual Conference, October 2020. [<a href="https://ieeexplore.ieee.org/abstract/document/9180550" style="color:#0645AD;">video</a>]
 * "Circuits and Architectures for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2020.
 * "A Low-Power Side-Channel-Secure Configurable Accelerator for Post-Quantum Lattice-Based Cryptography", ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Design Contest Demo Session, Virtual Conference, August 2020. [<a href="https://banerjeeutsav.github.io/files/2020-islped-design-contest-demo-proposal.pdf" style="color:#0645AD;">abstract</a>]
 * "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices", IEEE International Conference on Communications (ICC), Virtual Conference, June 2020.
