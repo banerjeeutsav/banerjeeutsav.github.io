@@ -62,23 +62,25 @@ Publications
   
 Talks
 ---------------
-* "Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor," IEEE International Symposium on Circuits and Systems (ISCAS), Virtual Conference, October 2020. [<a href="https://ieeexplore.ieee.org/abstract/document/9180550" style="color:#0645AD;">video</a>]
-* "Circuits and Architectures for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2020.
-* "A Low-Power Side-Channel-Secure Configurable Accelerator for Post-Quantum Lattice-Based Cryptography", ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Design Contest Demo Session, Virtual Conference, August 2020. [<a href="https://banerjeeutsav.github.io/files/2020-islped-design-contest-demo-proposal.pdf" style="color:#0645AD;">abstract</a>]
-* "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices", IEEE International Conference on Communications (ICC), Virtual Conference, June 2020.
-* "An Energy-Efficient Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, November 2019. [<a href="https://cics.mit.edu/wp-content/uploads/2019/11/Utsav-Banerjee-An-Energy-Efficient-Configurable-Crypto-Processor-for-Post-Quantum-Lattice-based-Protocols.pdf" style="color:#0645AD;">slides</a>]
-* "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2019.
-* "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," IACR Conference on Cryptographic Hardware and Embedded Systems (CHES), Atlanta, GA, USA, August 2019. [<a href="https://ches.iacr.org/2019/src/slides/Day1/Session1_Lattice_onlypdfs/Paper3_PPT_CHES_2019_UtsavBanerjee.pdf" style="color:#0645AD;">slides</a>] [<a href="https://www.youtube.com/watch?v=KLmIsDpoPCU" style="color:#0645AD;">video</a>]
-* "Efficient Hardware Architectures for Securing the Internet of Things," Texas Instruments, Dallas, TX, USA, June 2019.
-* "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2019.
-* "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, November 2018.
-* "Energy-Efficient Solutions for Securing the Internet of Things," Texas Instruments Kilby Labs, Dallas, TX, USA, July 2018.
-* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2018. [<a href="https://cics.mit.edu/wp-content/uploads/2018/05/Utsav-Banerjee-An-Energy-Efficient-Reconfigurable-DTLS-Cryptographic-Engine-for-End-to-End.pdf" style="color:#0645AD;">slides</a>]
-* "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2018. [<a href="https://pdfs.semanticscholar.org/6b3f/8ca05dfd2f9e2ad9de5093f972c9b759592f.pdf" style="color:#0645AD;">slides</a>]
-* "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
-* "Exploring Low-Cost Data Encryption using Compressed Sensing," Analog Devices, Wilmington, MA, USA, August 2017.
-* "Energy-Efficient Transport Layer Security for the Internet of Things," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2017.
-* "Towards Energy-Efficient Transport Layer Security for the Internet of Things," Analog Devices, Wilmington, MA, USA, October 2016.
+* <b>Invited Talks:</b>
+  * "Circuits and Architectures for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2020.
+  * "An Energy-Efficient Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, November 2019. [<a href="https://cics.mit.edu/wp-content/uploads/2019/11/Utsav-Banerjee-An-Energy-Efficient-Configurable-Crypto-Processor-for-Post-Quantum-Lattice-based-Protocols.pdf" style="color:#0645AD;">slides</a>]
+  * "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, October 2019.
+  * "Efficient Hardware Architectures for Securing the Internet of Things," Texas Instruments, Dallas, TX, USA, June 2019.
+  * "Efficient Circuits and Systems for Cryptography and Hardware Security," Advanced Topic Lecture in Analysis and Design of Digital Integrated Circuits Course, MIT, Cambridge, MA, USA, November 2018.
+  * "Energy-Efficient Solutions for Securing the Internet of Things," Texas Instruments Kilby Labs, Dallas, TX, USA, July 2018.
+  * "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2018. [<a href="https://cics.mit.edu/wp-content/uploads/2018/05/Utsav-Banerjee-An-Energy-Efficient-Reconfigurable-DTLS-Cryptographic-Engine-for-End-to-End.pdf" style="color:#0645AD;">slides</a>]
+  * "Exploring Low-Cost Data Encryption using Compressed Sensing," Analog Devices, Wilmington, MA, USA, August 2017.
+  * "Energy-Efficient Transport Layer Security for the Internet of Things," MIT Center for Integrated Circuits and Systems, Cambridge, MA, USA, May 2017.
+  * "Towards Energy-Efficient Transport Layer Security for the Internet of Things," Analog Devices, Wilmington, MA, USA, October 2016.
+* <b>Conference Talks:</b>
+  * "Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor," IEEE International Symposium on Circuits and Systems (ISCAS), Virtual Conference, October 2020. [<a href="https://ieeexplore.ieee.org/abstract/document/9180550" style="color:#0645AD;">video</a>]
+  * "A Low-Power Side-Channel-Secure Configurable Accelerator for Post-Quantum Lattice-Based Cryptography", ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Design Contest Demo Session, Virtual Conference, August 2020. [<a href="https://banerjeeutsav.github.io/files/2020-islped-design-contest-demo-proposal.pdf" style="color:#0645AD;">abstract</a>] [<a href="https://www.dropbox.com/sh/8eix0ahsyl0wpuo/AACM6CkA8PbrJ3g_ob6Bvq32a/Design%20Contest/6_Utsav%20Banerjee%20-%20172_Banerjee.mp4?dl=0" style="color:#0645AD;">video</a>]
+  * "Efficient Post-Quantum TLS Handshakes using Identity-Based Key Exchange from Lattices", IEEE International Conference on Communications (ICC), Virtual Conference, June 2020.
+  * "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," IACR Conference on Cryptographic Hardware and Embedded Systems (CHES), Atlanta, GA, USA, August 2019. [<a href="https://ches.iacr.org/2019/src/slides/Day1/Session1_Lattice_onlypdfs/Paper3_PPT_CHES_2019_UtsavBanerjee.pdf" style="color:#0645AD;">slides</a>] [<a href="https://www.youtube.com/watch?v=KLmIsDpoPCU" style="color:#0645AD;">video</a>]
+  * "An Energy-Efficient Configurable Lattice Cryptography Processor for the Quantum-Secure Internet of Things," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2019.
+  * "An Energy-Efficient Reconfigurable DTLS Cryptographic Engine for End-to-End Security in IoT Applications," IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, USA, February 2018. [<a href="https://pdfs.semanticscholar.org/6b3f/8ca05dfd2f9e2ad9de5093f972c9b759592f.pdf" style="color:#0645AD;">slides</a>]
+  * "eeDTLS: Energy-Efficient Datagram Transport Layer Security for the Internet of Things," IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
 
 Teaching
 ---------------
