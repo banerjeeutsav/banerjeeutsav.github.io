@@ -13,8 +13,8 @@ author_profile: true
 {% endfor %}
 -->
 
-[2018] Energy-Efficient Reconfigurable DTLS Cryptographic Engine for IoT Security
-------------
+Energy-Efficient Reconfigurable DTLS Cryptographic Engine for IoT Security
+---------------
 
 End-to-end security protocols, like Datagram Transport Layer Security (DTLS), enable the establishment of mutually authenticated confidential channels between edge nodes and the cloud, even in the presence of untrusted and potentially malicious network infrastructure. While this makes DTLS an ideal solution for IoT, the associated computational cost makes software-only implementations prohibitively expensive for resource-constrained embedded devices. We address this challenge through three key contributions: reconfigurable cryptographic accelerators enable two orders of magnitude energy savings, a dedicated DTLS engine offloads control flow to hardware, reducing program code and memory usage by ~10x, and an on-chip RISC-V core exercises the flexibility of the cryptographic accelerators to demonstrate security applications beyond DTLS.
 
