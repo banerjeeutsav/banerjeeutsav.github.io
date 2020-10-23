@@ -13,7 +13,7 @@ author_profile: true
 {% endfor %}
 -->
 
-<span style="color:#CC00CC;">[2020]</span> Accelerating Post-Quantum Cryptography using a Pre-Quantum TLS Crypto-Processor
+<span style="color:#CC00CC;">[2020]</span> Accelerating Post-Quantum Cryptography using a TLS Crypto-Processor
 ---------------
 
 Post-quantum cryptography (PQC) is currently a growing area of research and NIST PQC Round 2/3 schemes are being actively analyzed and optimized for both security and efficiency. We re-purpose the cryptographic accelerators in an energy-efficient pre-quantum TLS crypto-processor to implement post-quantum key encapsulation schemes SIKE, Kyber, Frodo and ThreeBears and signature scheme SPHINCS+ through software-hardware co-design. We utilize the modular arithmetic unit inside the elliptic curve cryptography accelerator to implement SIKE, while we use the AES and SHA2 hardware primitives to substitute SHA3 computations and accelerate the other three protocols. We accelerate the most computationally expensive components of these PQC protocols in hardware, thereby achieving up to an order of magnitude improvement in energy-efficiency over software implementations.
