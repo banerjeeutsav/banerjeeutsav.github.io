@@ -27,7 +27,7 @@ Education
 
 Work Experience
 ---------------
-* Design Intern, <b>Analog Devices</b>, Wilmington, MA, USA (June 2017 – August 2017)
+* Digital Design Intern, <b>Analog Devices</b>, Wilmington, MA, USA (June 2017 – August 2017)
   * Implementation of low-cost data encryption protocols and hardware based on compressed sensing theory.
 * Associate Engineer, <b>Qualcomm</b>, Bengaluru, KA, India (June 2013 – March 2015)
   * Design and verification of power management architectures for Snapdragon mobile SoCs.
