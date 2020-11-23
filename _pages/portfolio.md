@@ -47,6 +47,7 @@ We present a dual-factor authentication protocol and its low-power implementatio
 -->
 
 <b>References:</b>
+* R. T. Yazicigil, P. M. Nadeau, D. Richman, C. Juvekar, S. Maji, U. Banerjee, S. H. Fuller, M. R. Abdelhamid, N. Desai, M. I. Ibrahim, M. I. W. Khan, W. Jung, R. Han, A. P. Chandrakasan, "Beyond Crypto: Physical-Layer Security for Internet of Things Devices," <i>IEEE Solid-State Circuits Magazine</i>, November 2020. [<a href="https://ieeexplore.ieee.org/document/9265324/" style="color:#0645AD;">link</a>]
 * S. Maji, U. Banerjee, S. H. Fuller, M. R. Abdelhamid, P. M. Nadeau, R. T. Yazicigil, A. P. Chandrakasan, "A Low-Power Dual-Factor Authentication Unit for Secure Implantable Devices," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, March 2020. [<a href="https://ieeexplore.ieee.org/document/9075945/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/2004.13709" style="color:#0645AD;">arXiv</a>]
 
 <span style="color:#CC00CC;">[2019]</span> Energy-Efficient Configurable Quantum-Secure Lattice Cryptography Processor
