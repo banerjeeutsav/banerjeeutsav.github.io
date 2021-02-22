@@ -55,23 +55,24 @@ Service
 * <b>Session Chair</b>, <i>Communication and Information Systems Security (CISS) Symposium - Session 9: Crypto II</i>, <i>IEEE International Conference on Communications (ICC)</i>, 2020.
 * <b>Reviewer</b>:
   * <i>IEEE Internet of Things Journal</i>, 2020.
+  * <i>IEEE World Forum on Internet of Things</i>, 2021.
   * <i>Springer Journal of Cryptographic Engineering</i>, 2020.
-  * <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</i>, 2020.
-  * <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>, 2019, 2020.
-  * <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019, 2020.
+  * <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</i>, 2020, 2021.
+  * <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>, 2019, 2020, 2021.
+  * <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019, 2020, 2021.
   * <i>IEEE Transactions on Very Large Scale Integration Systems</i>, 2019, 2020.
   * <i>IEEE Journal of Solid-State Circuits</i>, 2018.
   * <i>PeerJ Computer Science</i>, 2020.
 * <b>External Reviewer</b>:
   * <i>IEEE Circuits and Systems Magazine</i>, 2020.
   * <i>IEEE Symposium on VLSI Circuits</i>, 2016, 2017.
+* <b>Student Member</b>, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
+* <b>Student Member</b>, <i>International Association for Cryptologic Research (IACR)</i>, 2016 - present.
+* <b>Member</b>, <i>IEEE Computer Society</i>, 2020 - present.
+* <b>Member</b>, <i>IEEE Solid-State Circuits Society</i>, 2016 - 2019.
 
 <!--
-* Student Member, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
-* Student Member, <i>International Association for Cryptologic Research (IACR)</i>, 2016 - present.
-* Member, <i>IEEE Computer Society</i>, 2020 - present.
-* Member, <i>IEEE Solid-State Circuits Society (SSCS)</i>, 2016 - 2019.
-* Member, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
+* <b>Member</b>, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
 -->
 
 Industry Experience
