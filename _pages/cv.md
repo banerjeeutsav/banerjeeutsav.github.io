@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---------------
-* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – 2021)
+* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – present)
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
   * Minor: <i>Quantum and Solid-State Physics</i>
