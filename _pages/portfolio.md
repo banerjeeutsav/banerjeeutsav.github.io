@@ -13,6 +13,18 @@ author_profile: true
 {% endfor %}
 -->
 
+<span style="color:#CC00CC;">[2021]</span> Side-Channel Attacks on Embedded Software Implementations of Neural Networks
+---------------
+
+With the recent advancements in machine learning theory, many commercial embedded micro-processors use neural network models for a variety of signal processing applications. However, their associated side-channel security vulnerabilities pose a major concern. There have been several proof-of-concept attacks demonstrating the extraction of their model parameters and input data. But, many of these attacks involve specific assumptions, have limited applicability, or pose huge overheads to the attacker. In this work, we study the side-channel vulnerabilities of embedded neural network implementations by recovering their parameters using timing-based information leakage and simple power analysis side-channel attacks. We demonstrate our attacks on popular micro-controller platforms over networks of different precisions such as floating point, fixed point, binary networks. We are able to successfully recover not only the model parameters but also the inputs for the above networks. Countermeasures against timing-based attacks are implemented and their overheads are analyzed.
+
+<!-- 
+![](/images/portfolio-fig8.png)
+-->
+
+<b>References:</b>
+* S. Maji, U. Banerjee, A. P. Chandrakasan, "Leaky Nets: Recovering Embedded Neural Network Models and Inputs through Simple Power and Timing Side-Channels - Attacks and Defenses," <i>IEEE Internet of Things Journal</i>, February 2021. [<a href="https://ieeexplore.ieee.org/document/9360858/" style="color:#0645AD;">link</a>]
+
 <span style="color:#CC00CC;">[2020]</span> Accelerating Post-Quantum Cryptography using a TLS Crypto-Processor
 ---------------
 
