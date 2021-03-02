@@ -31,7 +31,7 @@ Awards and Fellowships
 * Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT).
 * President of India Gold Medal, 2013 (IIT Kharagpur).
 * Institute Silver Medal, 2013 (IIT Kharagpur).
-* KVPY Fellowship, 2008 (IISc).
+* KVPY Fellowship, 2007 (IISc).
 
 Teaching
 ---------------
