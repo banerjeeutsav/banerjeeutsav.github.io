@@ -66,10 +66,10 @@ Service
 * <b>External Reviewer</b>:
   * <i>IEEE Circuits and Systems Magazine</i>, 2020.
   * <i>IEEE Symposium on VLSI Circuits</i>, 2016, 2017.
-* <b>Student Member</b>, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
+* <b>Graduate Student Member</b>, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
 * <b>Student Member</b>, <i>International Association for Cryptologic Research (IACR)</i>, 2016 - present.
 * <b>Member</b>, <i>IEEE Computer Society</i>, 2020 - present.
-* <b>Member</b>, <i>IEEE Solid-State Circuits Society</i>, 2016 - 2019.
+* <b>Member</b>, <i>IEEE Solid-State Circuits Society</i>, 2016 - present.
 
 <!--
 * <b>Member</b>, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
