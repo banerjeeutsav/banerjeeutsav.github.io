@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ---------------
-* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – present)
+* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – 2021)
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
+  * Thesis Title: <i>Efficient Algorithms, Protocols and Hardware Architectures for Next-Generation Cryptography in Embedded Systems</i>
   * Minor: <i>Quantum and Solid-State Physics</i>
   * GPA: 5.0 / 5.0
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2015 – 2017)
@@ -54,6 +55,7 @@ Service
 ---------------
 * <b>Session Chair</b>, <i>Communication and Information Systems Security (CISS) Symposium - Session 9: Crypto II</i>, <i>IEEE International Conference on Communications (ICC)</i>, 2020.
 * <b>Reviewer</b>:
+  * <i>IEEE Transactions on Computers</i>, 2021.
   * <i>IEEE Internet of Things Journal</i>, 2020.
   * <i>IEEE World Forum on Internet of Things</i>, 2021.
   * <i>Springer Journal of Cryptographic Engineering</i>, 2020.

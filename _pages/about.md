@@ -10,9 +10,11 @@ redirect_from:
 
 Hello! Welcome to my homepage.
 
-I am a Ph.D. candidate in the <a href="https://www.eecs.mit.edu" style="color:#0645AD;">Department of Electrical Engineering & Computer Science</a> at <a href="https://www.mit.edu" style="color:#0645AD;">Massachusetts Institute of Technology (MIT)</a>. I am a member of the <a href="https://mtlsites.mit.edu/researchgroups/icsystems" style="color:#0645AD;">Energy Efficient Circuits & Systems Group</a> supervised by <a href="https://mtlsites.mit.edu/users/anantha" style="color:#0645AD;">Prof. Anantha P. Chandrakasan</a>, and my current research involves efficient side-channel-secure cryptographic hardware implementations, algorithm-architecture co-optimizations and security protocols.
+I received my B.Tech. degree in <a href="http://www.ecdept.iitkgp.ac.in" style="color:#0645AD;">Electronics & Electrical Communication Engineering</a> from <a href="http://www.iitkgp.ac.in" style="color:#0645AD;">Indian Institute of Technology Kharagpur</a> (Kharagpur, WB, India) in 2013, and my S.M. and Ph.D. degrees in <a href="https://www.eecs.mit.edu" style="color:#0645AD;">Electrical Engineering & Computer Science</a> from <a href="https://www.mit.edu" style="color:#0645AD;">Massachusetts Institute of Technology</a> (Cambridge, MA, USA) in 2017 and 2021 respectively.
 
-I received my B.Tech. degree in Electronics & Electrical Communication Engineering in 2013 from IIT Kharagpur (Kharagpur, WB, India), and my S.M. degree in Electrical Engineering & Computer Science in 2017 from MIT (Cambridge, MA, USA). From 2013 to 2015, I was with the Low Power SoC Design team at Qualcomm (Bengaluru, KA, India), where I was involved in the design of power management architectures for next-generation Snapdragon mobile processors.
+During my Ph.D., I was extremely fortunate to have been a member of the <a href="https://mtlsites.mit.edu/researchgroups/icsystems" style="color:#0645AD;">Energy Efficient Circuits & Systems Group</a> supervised by <a href="https://chandrakasan.mit.edu" style="color:#0645AD;">Prof. Anantha P. Chandrakasan</a>. My Ph.D. thesis is titled "Efficient Algorithms, Protocols and Hardware Architectures for Next-Generation Cryptography in Embedded Systems".
+
+From 2013 to 2015, I was with the Low Power SoC Design team at <a href="https://www.qualcomm.com" style="color:#0645AD;">Qualcomm</a> (Bengaluru, KA, India), where I was involved in the design and validation of power management architectures for next-generation Snapdragon mobile processors.
 
 I was awarded the President of India Gold Medal in 2013, the Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship in 2015, and the Qualcomm Innovation Fellowship in 2016.
 
