@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Utsav Banerjee"
 title_separator          : "-"
 name                     : &name "Utsav Banerjee"
-description              : &description "Ph.D. Candidate at Massachusetts Institute of Technology"
+description              : &description 
 url                      : https://banerjeeutsav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "banerjeeutsav.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Utsav Banerjee"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at Massachusetts Institute of Technology"
+  bio              : 
   location         : "Cambridge, Massachusetts"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=HVnogZIAAAAJ&hl=en&oi=ao"
