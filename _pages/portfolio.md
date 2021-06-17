@@ -13,6 +13,18 @@ author_profile: true
 {% endfor %}
 -->
 
+<span style="color:#CC00CC;">[2021]</span> Low-Power BLS12-381 Pairing Crypto-Processor
+---------------
+
+We present the first BLS12-381 elliptic curve pairing crypto-processor for low-power embedded IoT applications. Efficient modular arithmetic and algorithm-architecture co-optimizations enable order of magnitude energy savings. We implement several countermeasures against timing and power side-channel attacks. Our crypto-processor is programmable to provide the flexibility to accelerate various elliptic curve cryptography and pairing-based cryptography protocols such as signature aggregation and functional encryption.
+
+<!-- 
+![](/images/portfolio-fig9.png)
+-->
+
+<b>References:</b>
+* U. Banerjee, A. P. Chandrakasan, "A Low-Power Elliptic Curve Pairing Crypto-Processor for Secure Embedded Blockchain and Functional Encryption," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, April 2021. [<a href="https://ieeexplore.ieee.org/document/9431552/" style="color:#0645AD;">link</a>]
+
 <span style="color:#CC00CC;">[2021]</span> Side-Channel Attacks on Embedded Software Implementations of Neural Networks
 ---------------
 
@@ -59,6 +71,7 @@ We present a dual-factor authentication protocol and its low-power implementatio
 -->
 
 <b>References:</b>
+* S. Maji, U. Banerjee, S. H. Fuller, R. T. Yazicigil, A. P. Chandrakasan, "Securing Embedded Medical Devices using Dual-Factor Authentication," <i>IEEE International Symposium on Computer-Based Medical Systems (CBMS)</i>, June 2021.
 * R. T. Yazicigil, P. M. Nadeau, D. Richman, C. Juvekar, S. Maji, U. Banerjee, S. H. Fuller, M. R. Abdelhamid, N. Desai, M. I. Ibrahim, M. I. W. Khan, W. Jung, R. Han, A. P. Chandrakasan, "Beyond Crypto: Physical-Layer Security for Internet of Things Devices," <i>IEEE Solid-State Circuits Magazine</i>, November 2020. [<a href="https://ieeexplore.ieee.org/document/9265324/" style="color:#0645AD;">link</a>]
 * S. Maji, U. Banerjee, S. H. Fuller, M. R. Abdelhamid, P. M. Nadeau, R. T. Yazicigil, A. P. Chandrakasan, "A Low-Power Dual-Factor Authentication Unit for Security of Implantable Devices," <i>ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED) Design Contest</i>, August 2020. [<a href="http://www.islped.org/2020/final_program.php#Day3" style="color:#0645AD;">link</a>]
 * S. Maji, U. Banerjee, S. H. Fuller, M. R. Abdelhamid, P. M. Nadeau, R. T. Yazicigil, A. P. Chandrakasan, "A Low-Power Dual-Factor Authentication Unit for Secure Implantable Devices," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, March 2020. [<a href="https://ieeexplore.ieee.org/document/9075945/" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/2004.13709" style="color:#0645AD;">arXiv</a>]
