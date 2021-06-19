@@ -70,7 +70,7 @@ Service
   * <i>IEEE Symposium on VLSI Circuits</i>, 2016, 2017.
 * <b>Member</b>, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
 * <b>Member</b>, <i>International Association for Cryptologic Research (IACR)</i>, 2016 - present.
-* <b>Member</b>, <i>IEEE Circuits & Systems Society</i>, 2021 - present.
+* <b>Member</b>, <i>IEEE Circuits and Systems Society</i>, 2021 - present.
 * <b>Member</b>, <i>IEEE Computer Society</i>, 2020 - present.
 * <b>Member</b>, <i>IEEE Solid-State Circuits Society</i>, 2016 - present.
 
