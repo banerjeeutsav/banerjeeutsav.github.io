@@ -55,16 +55,16 @@ Service
 ---------------
 * <b>Session Chair</b>, <i>Communication and Information Systems Security (CISS) Symposium - Session 9: Crypto II</i>, <i>IEEE International Conference on Communications (ICC)</i>, 2020.
 * <b>Reviewer</b>:
-  * <i>IEEE Transactions on Computers</i>, 2021.
-  * <i>IEEE Internet of Things Journal</i>, 2020.
-  * <i>IEEE World Forum on Internet of Things</i>, 2021.
-  * <i>Springer Journal of Cryptographic Engineering</i>, 2020.
-  * <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</i>, 2020, 2021.
   * <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>, 2019, 2020, 2021.
   * <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019, 2020, 2021.
+  * <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</i>, 2020, 2021.
+  * <i>IEEE Transactions on Computers</i>, 2021.
+  * <i>IEEE World Forum on Internet of Things</i>, 2021.
+  * <i>IEEE Internet of Things Journal</i>, 2020.
+  * <i>Springer Journal of Cryptographic Engineering</i>, 2020.
+  * <i>PeerJ Computer Science</i>, 2020.
   * <i>IEEE Transactions on Very Large Scale Integration Systems</i>, 2019, 2020.
   * <i>IEEE Journal of Solid-State Circuits</i>, 2018.
-  * <i>PeerJ Computer Science</i>, 2020.
 * <b>External Reviewer</b>:
   * <i>IEEE Circuits and Systems Magazine</i>, 2020.
   * <i>IEEE Symposium on VLSI Circuits</i>, 2016, 2017.
