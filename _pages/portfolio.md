@@ -35,7 +35,7 @@ With the recent advancements in machine learning theory, many commercial embedde
 -->
 
 <b>References:</b>
-* S. Maji, U. Banerjee, A. P. Chandrakasan, "Leaky Nets: Recovering Embedded Neural Network Models and Inputs through Simple Power and Timing Side-Channels - Attacks and Defenses," <i>IEEE Internet of Things Journal</i>, February 2021. [<a href="https://ieeexplore.ieee.org/document/9360858" style="color:#0645AD;">link</a>]
+* S. Maji, U. Banerjee, A. P. Chandrakasan, "Leaky Nets: Recovering Embedded Neural Network Models and Inputs through Simple Power and Timing Side-Channels - Attacks and Defenses," <i>IEEE Internet of Things Journal</i>, August 2021. [<a href="https://ieeexplore.ieee.org/document/9360858" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/2103.14739" style="color:#0645AD;">arXiv</a>]
 
 <span style="color:#CC00CC;">[2020]</span> Accelerating Post-Quantum Cryptography using a TLS Crypto-Processor
 ---------------
