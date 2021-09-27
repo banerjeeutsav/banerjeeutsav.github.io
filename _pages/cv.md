@@ -36,8 +36,8 @@ Awards and Fellowships
 
 Teaching
 ---------------
-* <b>Guest Lecturer</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019 and Fall 2020, MIT (Instructor: Prof. Vivienne Sze)
-* <b>Teaching Assistant</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT (Instructor: Prof. Vivienne Sze)
+* <b>Guest Lecturer</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2019 and Fall 2020, MIT
+* <b>Teaching Assistant</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, Fall 2018, MIT
 
 Service
 ---------------
@@ -58,11 +58,11 @@ Service
   * <i>PeerJ Computer Science</i>, 2020.
   * <i>Springer Journal of Cryptographic Engineering</i>, 2020.
   * <i>IEEE Journal of Solid-State Circuits</i>, 2018.
+
+<!--
 * <b>External Reviewer</b>:
   * <i>IEEE Circuits and Systems Magazine</i>, 2020.
   * <i>IEEE Symposium on VLSI Circuits</i>, 2016, 2017.
-
-<!--
 * <b>Member</b>, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
 * <b>Member</b>, <i>International Association for Cryptologic Research (IACR)</i>, 2016 - present.
 * <b>Member</b>, <i>IEEE Circuits and Systems Society</i>, 2021 - present.
