@@ -55,8 +55,8 @@ Service
   * <i>MDPI Sensors</i>, 2021.
   * <i>Sadhana</i>, 2021.
   * <i>IEEE Internet of Things Journal</i>, 2020.
-  * <i>Springer Journal of Cryptographic Engineering</i>, 2020.
   * <i>PeerJ Computer Science</i>, 2020.
+  * <i>Springer Journal of Cryptographic Engineering</i>, 2020.
   * <i>IEEE Journal of Solid-State Circuits</i>, 2018.
 * <b>External Reviewer</b>:
   * <i>IEEE Circuits and Systems Magazine</i>, 2020.
