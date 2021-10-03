@@ -41,35 +41,28 @@ Teaching
 
 Service
 ---------------
-* <b>Committee Member</b>, <i>Student Research Preview</i>, <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, 2022.
-* <b>Reviewer</b>, <i>IEEE World Forum on Internet of Things (WF-IoT)</i>, 2021.
-* <b>Session Chair</b>, <i>Communication and Information Systems Security Symposium: Crypto II</i>, <i>IEEE International Conference on Communications (ICC)</i>, 2020.
+* <b>Committee Member</b>, <i>Student Research Preview</i>, <i>2022 IEEE International Solid-State Circuits Conference (ISSCC)</i>
+* <b>Reviewer</b>, <i>2021 IEEE World Forum on Internet of Things (WF-IoT)</i>
+* <b>Session Chair</b>, <i>Crypto II</i>, <i>Communication and Information Systems Security Symposium</i>, <i> 2020 IEEE International Conference on Communications (ICC)</i>
 * <b>Journal Reviewer</b>:
-  * <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>, 2019 - present.
-  * <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019 - present.
-  * <i>IEEE Transactions on Very Large Scale Integration Systems</i>, 2019 - 2021.
-  * <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</i>, 2020 - 2021.
-  * <i>IEEE Transactions on Computers</i>, 2021.
-  * <i>MDPI Cryptography</i>, 2021.
-  * <i>MDPI Network</i>, 2021.
-  * <i>MDPI Sensors</i>, 2021.
-  * <i>Sadhana</i>, 2021.
-  * <i>IEEE Internet of Things Journal</i>, 2020.
-  * <i>PeerJ Computer Science</i>, 2020.
-  * <i>Springer Journal of Cryptographic Engineering</i>, 2020.
-  * <i>IEEE Journal of Solid-State Circuits</i>, 2018.
-
-<!--
-* <b>External Reviewer</b>:
-  * <i>IEEE Circuits and Systems Magazine</i>, 2020.
-  * <i>IEEE Symposium on VLSI Circuits</i>, 2016, 2017.
-* <b>Member</b>, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>, 2015 - present.
-* <b>Member</b>, <i>International Association for Cryptologic Research (IACR)</i>, 2016 - present.
-* <b>Member</b>, <i>IEEE Circuits and Systems Society</i>, 2021 - present.
-* <b>Member</b>, <i>IEEE Computer Society</i>, 2020 - present.
-* <b>Member</b>, <i>IEEE Solid-State Circuits Society</i>, 2016 - present.
-* <b>Member</b>, <i>IEEE Computer Society Technical Committee on Security and Privacy</i>, 2019 - present.
--->
+  * <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>
+  * <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>
+  * <i>IEEE Transactions on Very Large Scale Integration Systems</i>
+  * <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</i>
+  * <i>IEEE Transactions on Computers</i>
+  * <i>IEEE Internet of Things Journal</i>
+  * <i>IEEE Journal of Solid-State Circuits</i>
+  * <i>MDPI Cryptography</i>
+  * <i>MDPI Network</i>
+  * <i>MDPI Sensors</i>
+  * <i>PeerJ Computer Science</i>
+  * <i>Springer Journal of Cryptographic Engineering</i>
+  * <i>Sadhana</i> (official journal of Indian Academy of Sciences)
+* <b>Member</b>, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>
+* <b>Member</b>, <i>International Association for Cryptologic Research (IACR)</i>
+* <b>Member</b>, <i>IEEE Circuits and Systems Society</i>
+* <b>Member</b>, <i>IEEE Computer Society</i>
+* <b>Member</b>, <i>IEEE Solid-State Circuits Society</i>
 
 Industry Experience
 ---------------
