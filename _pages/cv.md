@@ -14,13 +14,13 @@ Education
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – 2021)
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
-  * Thesis Title: <i>Efficient Algorithms, Protocols and Hardware Architectures for Next-Generation Cryptography in Embedded Systems</i>
-  * Minor: <i>Quantum and Solid-State Physics</i>
+  * Thesis Title: Efficient Algorithms, Protocols and Hardware Architectures for Next-Generation Cryptography in Embedded Systems
+  * Minor: Quantum and Solid-State Physics
   * GPA: 5.0 / 5.0
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2015 – 2017)
   * S.M. in Electrical Engineering & Computer Science
   * Advisor: Prof. Anantha P. Chandrakasan
-  * Thesis Title: <i>Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security</i>
+  * Thesis Title: Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security
   * GPA: 5.0 / 5.0
 * <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, WB, India (2009 – 2013)
   * B.Tech. (Hons.) in Electronics & Electrical Communication Engineering
@@ -36,33 +36,33 @@ Awards and Fellowships
 
 Teaching
 ---------------
-* <b>Guest Lecturer</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, MIT (Fall 2019, Fall 2020)
-* <b>Teaching Assistant</b>, <i>6.374 - Analysis and Design of Digital Integrated Circuits</i>, MIT (Fall 2018)
+* <b>Guest Lecturer</b>, 6.374 - Analysis and Design of Digital Integrated Circuits, MIT (Fall 2019, Fall 2020)
+* <b>Teaching Assistant</b>, 6.374 - Analysis and Design of Digital Integrated Circuits, MIT (Fall 2018)
 
 Service
 ---------------
-* <b>Committee Member</b>, <i>Student Research Preview</i>, <i>2022 IEEE International Solid-State Circuits Conference (ISSCC)</i>
-* <b>Reviewer</b>, <i>2021 IEEE World Forum on Internet of Things (WF-IoT)</i>
-* <b>Session Chair</b>, <i>Crypto II</i>, <i>Communication and Information Systems Security Symposium</i>, <i> 2020 IEEE International Conference on Communications (ICC)</i>
+* <b>Committee Member</b>, Student Research Preview, 2022 IEEE International Solid-State Circuits Conference (ISSCC)
+* <b>Reviewer</b>, 2021 IEEE World Forum on Internet of Things (WF-IoT)
+* <b>Session Chair</b>, Crypto II, Communication and Information Systems Security Symposium,  2020 IEEE International Conference on Communications (ICC)
 * <b>Journal Reviewer</b>:
-  * <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>
-  * <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>
-  * <i>IEEE Transactions on Very Large Scale Integration Systems</i>
-  * <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</i>
-  * <i>IEEE Transactions on Computers</i>
-  * <i>IEEE Internet of Things Journal</i>
-  * <i>IEEE Journal of Solid-State Circuits</i>
-  * <i>MDPI Cryptography</i>
-  * <i>MDPI Network</i>
-  * <i>MDPI Sensors</i>
-  * <i>PeerJ Computer Science</i>
-  * <i>Springer Journal of Cryptographic Engineering</i>
-  * <i>Sadhana</i> (official journal of Indian Academy of Sciences)
-* <b>Member</b>, <i>Institute of Electrical and Electronics Engineers (IEEE)</i>
-* <b>Member</b>, <i>International Association for Cryptologic Research (IACR)</i>
-* <b>Member</b>, <i>IEEE Circuits and Systems Society</i>
-* <b>Member</b>, <i>IEEE Computer Society</i>
-* <b>Member</b>, <i>IEEE Solid-State Circuits Society</i>
+  * IEEE Transactions on Circuits and Systems I: Regular Papers
+  * IEEE Transactions on Circuits and Systems II: Express Briefs
+  * IEEE Transactions on Very Large Scale Integration Systems
+  * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+  * IEEE Transactions on Computers
+  * IEEE Internet of Things Journal
+  * IEEE Journal of Solid-State Circuits
+  * MDPI Cryptography
+  * MDPI Network
+  * MDPI Sensors
+  * PeerJ Computer Science
+  * Springer Journal of Cryptographic Engineering
+  * Sadhana (official journal of Indian Academy of Sciences)
+* <b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE)
+* <b>Member</b>, International Association for Cryptologic Research (IACR)
+* <b>Member</b>, IEEE Circuits and Systems Society
+* <b>Member</b>, IEEE Computer Society
+* <b>Member</b>, IEEE Solid-State Circuits Society
 
 Industry Experience
 ---------------
