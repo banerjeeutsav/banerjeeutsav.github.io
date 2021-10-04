@@ -36,8 +36,8 @@ Awards and Fellowships
 
 Teaching
 ---------------
-* <b>Guest Lecturer</b>, 6.374 - Analysis and Design of Digital Integrated Circuits, MIT (Fall 2019, Fall 2020)
-* <b>Teaching Assistant</b>, 6.374 - Analysis and Design of Digital Integrated Circuits, MIT (Fall 2018)
+* <b>Guest Lecturer</b>, Analysis and Design of Digital Integrated Circuits (6.374), MIT (Fall 2019, Fall 2020)
+* <b>Teaching Assistant</b>, Analysis and Design of Digital Integrated Circuits (6.374), MIT (Fall 2018)
 
 Service
 ---------------
