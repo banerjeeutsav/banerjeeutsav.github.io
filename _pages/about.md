@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 Utsav Banerjee
-&#2441; &#2510; &#2488; &#2476; &#32; &#2476; &#2509; &#2479; &#2494; &#2472; &#2494; &#2480; &#2509; &#2460; &#2496;
+
+I am an Assistant Professor in the <a href=https://dese.iisc.ac.in" style="color:#0645AD;">Department of Electronic Systems Engineering</a> at <a href=https://www.iisc.ac.in" style="color:#0645AD;">Indian Institute of Science</a>. My research interests include cryptography, hardware security, digital circuits and embedded systems.
+
 
 I received my B.Tech. degree in <a href="http://www.ecdept.iitkgp.ac.in" style="color:#0645AD;">Electronics & Electrical Communication Engineering</a> from <a href="http://www.iitkgp.ac.in" style="color:#0645AD;">Indian Institute of Technology Kharagpur</a> (Kharagpur, WB, India) in 2013, and my S.M. and Ph.D. degrees in <a href="https://www.eecs.mit.edu" style="color:#0645AD;">Electrical Engineering & Computer Science</a> from <a href="https://www.mit.edu" style="color:#0645AD;">Massachusetts Institute of Technology</a> (Cambridge, MA, USA) in 2017 and 2021 respectively.
 
