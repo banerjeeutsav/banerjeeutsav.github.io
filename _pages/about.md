@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Utsav Banerjee**
+# Utsav Banerjee
 
 I am an Assistant Professor in the <a href="https://dese.iisc.ac.in" style="color:#0645AD;">Department of Electronic Systems Engineering</a> at <a href="https://www.iisc.ac.in" style="color:#0645AD;">Indian Institute of Science</a>. My research interests include cryptography, hardware security, digital circuits and embedded systems.
 
