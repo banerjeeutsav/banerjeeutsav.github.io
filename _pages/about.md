@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Utsav Banerjee"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hello! Welcome to my homepage.
 
 I received my B.Tech. degree in <a href="http://www.ecdept.iitkgp.ac.in" style="color:#0645AD;">Electronics & Electrical Communication Engineering</a> from <a href="http://www.iitkgp.ac.in" style="color:#0645AD;">Indian Institute of Technology Kharagpur</a> (Kharagpur, WB, India) in 2013, and my S.M. and Ph.D. degrees in <a href="https://www.eecs.mit.edu" style="color:#0645AD;">Electrical Engineering & Computer Science</a> from <a href="https://www.mit.edu" style="color:#0645AD;">Massachusetts Institute of Technology</a> (Cambridge, MA, USA) in 2017 and 2021 respectively.
 
@@ -20,8 +18,9 @@ I was awarded the President of India Gold Medal in 2013, the Irwin Mark Jacobs &
 
 Research Interests
 ------------------
-* Cryptographic Hardware & Security Protocols
-* Efficient Digital System Architectures
+* Cryptography & Hardware Security
+* Digital System Architectures
+* Network Security Protocols
 * Quantum Computation
 * Machine Learning
 
