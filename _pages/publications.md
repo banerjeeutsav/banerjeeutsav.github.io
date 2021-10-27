@@ -9,6 +9,7 @@ author_profile: true
 
 Journals
 ---------------
+* <b>U. Banerjee</b>, A. P. Chandrakasan, "A Low-Power BLS12-381 Pairing Crypto-Processor for Internet-of-Things Security Applications," <i>IEEE Solid-State Circuits Letters</i>, 2021 (to appear).
 * S. Maji, <b>U. Banerjee</b>, A. P. Chandrakasan, "Leaky Nets: Recovering Embedded Neural Network Models and Inputs through Simple Power and Timing Side-Channels - Attacks and Defenses," <i>IEEE Internet of Things Journal</i>, August 2021. [<a href="https://ieeexplore.ieee.org/document/9360858" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/2103.14739" style="color:#0645AD;">arXiv</a>]
 * R. T. Yazicigil, P. M. Nadeau, D. Richman, C. Juvekar, S. Maji, <b>U. Banerjee</b>, S. H. Fuller, M. R. Abdelhamid, N. Desai, M. I. Ibrahim, M. I. W. Khan, W. Jung, R. Han, A. P. Chandrakasan, "Beyond Crypto: Physical-Layer Security for Internet of Things Devices," <i>IEEE Solid-State Circuits Magazine</i>, November 2020. [<a href="https://ieeexplore.ieee.org/document/9265324" style="color:#0645AD;">link</a>]
 * <b>U. Banerjee</b>, T. S. Ukyab, A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," <i>IACR Transactions on Cryptographic Hardware and Embedded Systems</i>, August 2019. [<a href="https://tches.iacr.org/index.php/TCHES/article/view/8344" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1910.07557" style="color:#0645AD;">arXiv</a>]
@@ -18,6 +19,7 @@ Journals
 
 Conferences
 ---------------
+* S. Maji, <b>U. Banerjee</b>, S. H. Fuller, A. P. Chandrakasan, "ShieldNN: A Threshold Implementation-Based Neural Network Accelerator Securing Model Parameters and Inputs Against Power Side-Channel Attacks," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2022 (to appear).
 * S. Maji, <b>U. Banerjee</b>, S. H. Fuller, R. T. Yazicigil, A. P. Chandrakasan, "Securing Embedded Medical Devices using Dual-Factor Authentication," <i>IEEE International Symposium on Computer-Based Medical Systems (CBMS)</i>, June 2021. [<a href="https://ieeexplore.ieee.org/document/9474650" style="color:#0645AD;">link</a>]
 * <b>U. Banerjee</b>, A. P. Chandrakasan, "A Low-Power Elliptic Curve Pairing Crypto-Processor for Secure Embedded Blockchain and Functional Encryption," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, April 2021. [<a href="https://ieeexplore.ieee.org/document/9431552" style="color:#0645AD;">link</a>] [<a href="https://dspace.mit.edu/handle/1721.1/131207" style="color:#0645AD;">DSpace</a>]
 * <b>U. Banerjee</b>, S. Das, A. P. Chandrakasan, "Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor," <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i>, October 2020. [<a href="https://ieeexplore.ieee.org/document/9180550" style="color:#0645AD;">link</a>] [<a href="https://dspace.mit.edu/handle/1721.1/128546" style="color:#0645AD;">DSpace</a>]
