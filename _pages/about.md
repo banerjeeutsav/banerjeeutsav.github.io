@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Utsav Banerjee"
-excerpt: "Home"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
