@@ -9,7 +9,7 @@ author_profile: true
 
 Journals
 ---------------
-7. <b>U. Banerjee</b>, A. P. Chandrakasan, "A Low-Power BLS12-381 Pairing Crypto-Processor for Internet-of-Things Security Applications," <i>IEEE Solid-State Circuits Letters</i>, 2021 (to appear).
+7. <b>U. Banerjee</b>, A. P. Chandrakasan, "A Low-Power BLS12-381 Pairing Crypto-Processor for Internet-of-Things Security Applications," <i>IEEE Solid-State Circuits Letters</i>, October 2021. [<a href="https://ieeexplore.ieee.org/document/9593932" style="color:#0645AD;">link</a>]
 6. S. Maji, <b>U. Banerjee</b>, A. P. Chandrakasan, "Leaky Nets: Recovering Embedded Neural Network Models and Inputs through Simple Power and Timing Side-Channels - Attacks and Defenses," <i>IEEE Internet of Things Journal</i>, August 2021. [<a href="https://ieeexplore.ieee.org/document/9360858" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/2103.14739" style="color:#0645AD;">arXiv</a>]
 5. R. T. Yazicigil, P. M. Nadeau, D. Richman, C. Juvekar, S. Maji, <b>U. Banerjee</b>, S. H. Fuller, M. R. Abdelhamid, N. Desai, M. I. Ibrahim, M. I. W. Khan, W. Jung, R. Han, A. P. Chandrakasan, "Beyond Crypto: Physical-Layer Security for Internet of Things Devices," <i>IEEE Solid-State Circuits Magazine</i>, November 2020. [<a href="https://ieeexplore.ieee.org/document/9265324" style="color:#0645AD;">link</a>]
 4. <b>U. Banerjee</b>, T. S. Ukyab, A. P. Chandrakasan, "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based Protocols," <i>IACR Transactions on Cryptographic Hardware and Embedded Systems</i>, August 2019. [<a href="https://tches.iacr.org/index.php/TCHES/article/view/8344" style="color:#0645AD;">link</a>] [<a href="https://arxiv.org/abs/1910.07557" style="color:#0645AD;">arXiv</a>]
