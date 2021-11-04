@@ -42,8 +42,9 @@ Teaching
 Service
 ---------------
 * <b>Committee Member</b>, Student Research Preview, 2022 IEEE International Solid-State Circuits Conference (ISSCC)
-* <b>Reviewer</b>, 2021 IEEE World Forum on Internet of Things (WF-IoT)
 * <b>Session Chair</b>, Crypto II, Communication and Information Systems Security Symposium,  2020 IEEE International Conference on Communications (ICC)
+* <b>Conference Reviewer</b>:
+  * 2021 IEEE World Forum on Internet of Things (WF-IoT)
 * <b>Journal Reviewer</b>:
   * IEEE Transactions on Circuits and Systems I: Regular Papers
   * IEEE Transactions on Circuits and Systems II: Express Briefs
@@ -53,6 +54,7 @@ Service
   * IEEE Internet of Things Journal
   * IEEE Journal of Solid-State Circuits
   * MDPI Cryptography
+  * MDPI Energies
   * MDPI Network
   * MDPI Sensors
   * PeerJ Computer Science
