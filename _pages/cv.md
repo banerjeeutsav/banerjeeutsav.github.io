@@ -41,11 +41,14 @@ Teaching
 
 Service
 ---------------
-* <b>Committee Member</b>, Student Research Preview, 2022 IEEE International Solid-State Circuits Conference (ISSCC)
-* <b>Session Chair</b>, Crypto II, Communication and Information Systems Security Symposium,  2020 IEEE International Conference on Communications (ICC)
-* <b>Conference Reviewer</b>:
+* <b>Conference Committee Member:</b>
+  * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview
+* <b>Conference Session Chair / Co-Chair:</b>
+  * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview, Session: Digital and Machine Learning
+  * 2020 IEEE International Conference on Communications (ICC), Communication and Information Systems Security, Session: Crypto II
+* <b>Conference Reviewer:</b>
   * 2021 IEEE World Forum on Internet of Things (WF-IoT)
-* <b>Journal Reviewer</b>:
+* <b>Journal Reviewer:</b>
   * IEEE Transactions on Circuits and Systems I: Regular Papers
   * IEEE Transactions on Circuits and Systems II: Express Briefs
   * IEEE Transactions on Very Large Scale Integration Systems
