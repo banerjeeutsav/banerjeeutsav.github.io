@@ -23,6 +23,7 @@ We present the first BLS12-381 elliptic curve pairing crypto-processor for low-p
 -->
 
 <b>References:</b>
+* U. Banerjee, A. P. Chandrakasan, "A Low-Power BLS12-381 Pairing Crypto-Processor for Internet-of-Things Security Applications," <i>IEEE Solid-State Circuits Letters</i>, October 2021. [<a href="https://ieeexplore.ieee.org/document/9593932" style="color:#0645AD;">link</a>]
 * U. Banerjee, A. P. Chandrakasan, "A Low-Power Elliptic Curve Pairing Crypto-Processor for Secure Embedded Blockchain and Functional Encryption," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, April 2021. [<a href="https://ieeexplore.ieee.org/document/9431552" style="color:#0645AD;">link</a>]
 
 <span style="color:#CC00CC;">[2021]</span> Side-Channel Attacks on Embedded Software Implementations of Neural Networks
