@@ -47,6 +47,7 @@ Service
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview, Session: Digital and Machine Learning
   * 2020 IEEE International Conference on Communications (ICC), Communication and Information Systems Security, Session: Crypto II
 * <b>Conference Reviewer:</b>
+  * 2022 IEEE International Symposium on Circuits and Systems (ISCAS)
   * 2021 IEEE World Forum on Internet of Things (WF-IoT)
 * <b>Journal Reviewer:</b>
   * IEEE Transactions on Circuits and Systems I: Regular Papers
