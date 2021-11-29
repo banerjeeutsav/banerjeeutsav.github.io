@@ -20,7 +20,6 @@ Education
   * S.M. in Electrical Engineering & Computer Science (GPA: 5.0 / 5.0)
   * Advisor: Prof. Anantha P. Chandrakasan
   * Thesis Title: Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security
-  * GPA: 5.0 / 5.0
 * <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, WB, India (2009 – 2013)
   * B.Tech. (Hons.) in Electronics & Electrical Communication Engineering (GPA: 9.79 / 10.00)
 * <b>Vivekananda Mission School</b>, Kolkata, WB, India
