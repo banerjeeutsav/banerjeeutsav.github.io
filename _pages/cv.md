@@ -58,6 +58,7 @@ Service
   * IEEE Internet of Things Journal
   * IEEE Journal of Solid-State Circuits
   * MDPI Cryptography
+  * MDPI Electronics
   * MDPI Energies
   * MDPI Network
   * MDPI Sensors
