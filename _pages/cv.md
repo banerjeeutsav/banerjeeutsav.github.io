@@ -57,14 +57,7 @@ Service
   * IEEE Transactions on Computers
   * IEEE Internet of Things Journal
   * IEEE Journal of Solid-State Circuits
-  * MDPI Cryptography
-  * MDPI Electronics
-  * MDPI Energies
-  * MDPI Network
-  * MDPI Sensors
-  * PeerJ Computer Science
   * Springer Journal of Cryptographic Engineering
-  * Sadhana (official journal of Indian Academy of Sciences)
 * <b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE)
 * <b>Member</b>, International Association for Cryptologic Research (IACR)
 * <b>Member</b>, IEEE Circuits and Systems Society
