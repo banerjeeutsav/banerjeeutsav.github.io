@@ -19,6 +19,7 @@ Journals
 
 Conferences
 ---------------
+13. M. R. Abdelhamid, U. Ha, <b>U. Banerjee</b>, F. Adib, A. P. Chandrakasan, "Wireless, Batteryless, and Secure Implantable System-on-a-Chip for 1.37mmHg Strain Sensing with Bandwidth Reconfigurability for Cross-Tissue Adaptation," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, April 2022. (to appear)
 12. S. Maji, <b>U. Banerjee</b>, S. H. Fuller, A. P. Chandrakasan, "ShieldNN: A Threshold Implementation-Based Neural Network Accelerator Securing Model Parameters and Inputs Against Power Side-Channel Attacks," <i>IEEE International Solid-State Circuits Conference (ISSCC)</i>, February 2022. (to appear)
 11. S. Maji, <b>U. Banerjee</b>, S. H. Fuller, R. T. Yazicigil, A. P. Chandrakasan, "Securing Embedded Medical Devices using Dual-Factor Authentication," <i>IEEE International Symposium on Computer-Based Medical Systems (CBMS)</i>, June 2021. [<a href="https://ieeexplore.ieee.org/document/9474650" style="color:#0645AD;">link</a>]
 10. <b>U. Banerjee</b>, A. P. Chandrakasan, "A Low-Power Elliptic Curve Pairing Crypto-Processor for Secure Embedded Blockchain and Functional Encryption," <i>IEEE Custom Integrated Circuits Conference (CICC)</i>, April 2021. [<a href="https://ieeexplore.ieee.org/document/9431552" style="color:#0645AD;">link</a>] [<a href="https://dspace.mit.edu/handle/1721.1/131207" style="color:#0645AD;">DSpace</a>]
