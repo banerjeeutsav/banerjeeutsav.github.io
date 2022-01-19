@@ -46,6 +46,6 @@ Manuscripts and Technical Reports
 
 Theses
 ---------------
-* <b>U. Banerjee</b>, "Efficient Algorithms, Protocols and Hardware Architectures for Next-Generation Cryptography in Embedded Systems," <i>Ph.D. Thesis, Massachusetts Institute of Technology</i>, June 2021.
+* <b>U. Banerjee</b>, "Efficient Algorithms, Protocols and Hardware Architectures for Next-Generation Cryptography in Embedded Systems," <i>Ph.D. Thesis, Massachusetts Institute of Technology</i>, June 2021. [<a href="https://dspace.mit.edu/handle/1721.1/139330" style="color:#0645AD;">link</a>]
 * <b>U. Banerjee</b>, "Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security," <i>S.M. Thesis, Massachusetts Institute of Technology</i>, June 2017. [<a href="https://dspace.mit.edu/handle/1721.1/111861" style="color:#0645AD;">link</a>]
 * <b>U. Banerjee</b>, "Study of Thermal Effects in AlGaN/GaN HEMTs and Refinement of Existing Mobility and I-V Models," <i>B.Tech. Thesis, Indian Institute of Technology Kharagpur</i>, April 2013.
