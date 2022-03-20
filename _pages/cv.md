@@ -28,12 +28,12 @@ Education
   
 Professional Experience
 ---------------
-* Assistant Professor, <b>Indian Institute of Science</b>, Bengaluru, KA, India (October 2021 - present)
-* Graduate Research Fellow, <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (September 2015 - June 2021)
-* Digital Design Intern, <b>Analog Devices</b>, Wilmington, MA, USA (June 2017 – August 2017)
-* Associate Engineer, <b>Qualcomm</b>, Bengaluru, KA, India (June 2013 – March 2015)
-* Undergraduate Researcher, <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, WB, India (August 2012 - April 2013)
-* Engineering Intern, <b>Qualcomm</b>, Bengaluru, KA, India (May 2012 – July 2012)
+* Assistant Professor, <b>Indian Institute of Science</b>, Bengaluru, KA, India (2021 - present)
+* Graduate Research Fellow, <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2015 - 2021)
+* Digital Design Intern, <b>Analog Devices</b>, Wilmington, MA, USA (2017)
+* Associate Engineer, <b>Qualcomm</b>, Bengaluru, KA, India (2013 – 2015)
+* Undergraduate Researcher, <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, WB, India (2012 - 2013)
+* Engineering Intern, <b>Qualcomm</b>, Bengaluru, KA, India (2012)
 
 Awards and Fellowships
 ---------------
