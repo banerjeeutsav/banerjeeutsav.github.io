@@ -25,14 +25,23 @@ Education
 * <b>Vivekananda Mission School</b>, Kolkata, WB, India
   * Indian School Certificate (ISC) (2009) (Score: 97.0%)
   * Indian Certificate of Secondary Education (ICSE) (2007) (Score: 98.2%)
+  
+Professional Experience
+---------------
+* Assistant Professor, <b>Indian Institute of Science</b>, Bengaluru, KA, India (October 2021 - present)
+* Graduate Research Fellow, <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (September 2015 - June 2021)
+* Digital Design Intern, <b>Analog Devices</b>, Wilmington, MA, USA (June 2017 – August 2017)
+* Associate Engineer, <b>Qualcomm</b>, Bengaluru, KA, India (June 2013 – March 2015)
+* Undergraduate Researcher, <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, WB, India (August 2012 - April 2013)
+* Engineering Intern, <b>Qualcomm</b>, Bengaluru, KA, India (May 2012 – July 2012)
 
 Awards and Fellowships
 ---------------
-* Qualcomm Innovation Fellowship, 2016 (and finalist in 2020).
-* Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT).
-* President of India Gold Medal, 2013 (IIT Kharagpur).
-* Institute Silver Medal, 2013 (IIT Kharagpur).
-* KVPY Fellowship, 2007 (IISc).
+* Qualcomm Innovation Fellowship, 2016 (and finalist in 2020)
+* Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT)
+* President of India Gold Medal, 2013 (IIT Kharagpur)
+* Institute Silver Medal, 2013 (IIT Kharagpur)
+* KVPY Fellowship, 2007 (IISc)
 
 Teaching
 ---------------
@@ -53,21 +62,16 @@ Service
   * IEEE Transactions on Circuits and Systems I: Regular Papers
   * IEEE Transactions on Circuits and Systems II: Express Briefs
   * IEEE Transactions on Very Large Scale Integration Systems
-  * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+  * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+  * IEEE Transactions on Information Theory
   * IEEE Transactions on Computers
+  * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
   * IEEE Internet of Things Journal
   * IEEE Journal of Solid-State Circuits
   * Springer Journal of Cryptographic Engineering
 * <b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE)
 * <b>Member</b>, International Association for Cryptologic Research (IACR)
 * <b>Member</b>, IEEE Circuits and Systems Society
-* <b>Member</b>, IEEE Computer Society
 * <b>Member</b>, IEEE Solid-State Circuits Society
-
-Industry Experience
----------------
-* Digital Design Intern, <b>Analog Devices</b>, Wilmington, MA, USA (June 2017 – August 2017)
-* Associate Engineer, <b>Qualcomm</b>, Bengaluru, KA, India (June 2013 – March 2015)
-* Engineering Intern, <b>Qualcomm</b>, Bengaluru, KA, India (May 2012 – July 2012)
 
 
