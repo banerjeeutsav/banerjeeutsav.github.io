@@ -14,12 +14,13 @@ Education
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2017 – 2021)
   * Ph.D. in Electrical Engineering & Computer Science (GPA: 5.0 / 5.0)
   * Advisor: Prof. Anantha P. Chandrakasan
-  * Thesis Title: Efficient Algorithms, Protocols and Hardware Architectures for Next-Generation Cryptography in Embedded Systems
+  * Thesis Title: "Efficient Algorithms, Protocols and Hardware Architectures for Next-Generation Cryptography in Embedded Systems"
+  * Dissertation Committee: Prof. Anantha P. Chandrakasan, Prof. Ronald L. Rivest, Prof. Vinod Vaikuntanathan
   * Minor: Quantum and Solid-State Physics
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2015 – 2017)
   * S.M. in Electrical Engineering & Computer Science (GPA: 5.0 / 5.0)
   * Advisor: Prof. Anantha P. Chandrakasan
-  * Thesis Title: Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security
+  * Thesis Title: "Energy-Efficient Protocols and Hardware Architectures for Transport Layer Security"
 * <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, WB, India (2009 – 2013)
   * B.Tech. (Hons.) in Electronics & Electrical Communication Engineering (GPA: 9.79 / 10.00)
 * <b>Vivekananda Mission School</b>, Kolkata, WB, India
