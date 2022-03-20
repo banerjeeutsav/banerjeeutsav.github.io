@@ -13,6 +13,6 @@ author_profile: true
 {% endfor %}
 -->
 
-![](/images/research.png)
+For details, please visit my research group website: <a href="https://labs.dese.iisc.ac.in/sinesyslab" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab</a>]
 
-For more details, please visit my research group website: <a href="https://labs.dese.iisc.ac.in/sinesyslab" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab</a>]
+![](/images/research.png)
