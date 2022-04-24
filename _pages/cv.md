@@ -69,6 +69,7 @@ Service
   * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
   * IEEE Internet of Things Journal
   * IEEE Journal of Solid-State Circuits
+  * ACM Transactions on Embedded Computing Systems
   * Springer Journal of Cryptographic Engineering
 * <b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE)
 * <b>Member</b>, International Association for Cryptologic Research (IACR)
