@@ -64,11 +64,12 @@ Service
   * IEEE Transactions on Circuits and Systems II: Express Briefs
   * IEEE Transactions on Very Large Scale Integration Systems
   * IEEE Journal of Solid-State Circuits
-  * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-  * IEEE Transactions on Information Theory
   * IEEE Transactions on Computers
   * IEEE Internet of Things Journal
+  * IEEE Transactions on Information Theory
+  * IEEE Transactions on Industrial Informatics
   * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+  * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
   * ACM Transactions on Embedded Computing Systems
   * Springer Journal of Cryptographic Engineering
 * <b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE)
