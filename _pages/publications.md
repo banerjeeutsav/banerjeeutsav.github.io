@@ -10,17 +10,17 @@ author_profile: true
 
 Peer-Reviewed Journals
 ---------------
-For complete list of journal publications, please visit my research group website: <a href="https://labs.dese.iisc.ac.in/sinesyslab/journals" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab/journals</a>
+For complete list of journal publications, please visit: <a href="https://labs.dese.iisc.ac.in/sinesyslab/journals" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab/journals</a>
 
 
 Peer-Reviewed Conferences
 ---------------
-For complete list of conference publications, please visit my research group website: <a href="https://labs.dese.iisc.ac.in/sinesyslab/conferences" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab/conferences</a>
+For complete list of conference publications, please visit: <a href="https://labs.dese.iisc.ac.in/sinesyslab/conferences" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab/conferences</a>
 
 
 Patents, Manuscripts and Technical Reports
 ---------------
-For complete list of other publications, please visit my research group website: <a href="https://labs.dese.iisc.ac.in/sinesyslab/other-publications" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab/other-publications</a>
+For complete list of other publications, please visit: <a href="https://labs.dese.iisc.ac.in/sinesyslab/other-publications" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab/other-publications</a>
 
 
 Theses
