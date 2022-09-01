@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 
 
-Peer-Reviewed Journals
+Journals
 ---------------
 For complete list of journal publications, please visit: <a href="https://labs.dese.iisc.ac.in/sinesyslab/journals" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab/journals</a>
 
 
-Peer-Reviewed Conferences
+Conferences
 ---------------
 For complete list of conference publications, please visit: <a href="https://labs.dese.iisc.ac.in/sinesyslab/conferences" style="color:#0645AD;">https://labs.dese.iisc.ac.in/sinesyslab/conferences</a>
 
