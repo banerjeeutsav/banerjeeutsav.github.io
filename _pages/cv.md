@@ -38,12 +38,13 @@ Professional Experience
 
 Awards and Fellowships
 ---------------
+* ABB Research Award in Honor of Hubertus von Grünberg, 2022
 * Pratiksha Trust Young Investigator Award, 2022 (IISc)
 * Qualcomm Innovation Fellowship, 2016 (and finalist in 2020)
 * Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT)
 * President of India Gold Medal, 2013 (IIT Kharagpur)
 * Institute Silver Medal, 2013 (IIT Kharagpur)
-* KVPY Fellowship, 2007 (IISc)
+* KVPY Fellowship, 2007
 
 Teaching
 ---------------
@@ -54,7 +55,10 @@ Teaching
 Service
 ---------------
 * <b>Conference Committee Member:</b>
-  * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview
+  * 2023 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
+  * 2023 International Conference on VLSI Design (VLSID), Low Power Digital Architectures Track, Review Committee
+  * 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
+  * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
 * <b>Conference Session Chair / Co-Chair:</b>
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview, Session: Digital and Machine Learning
   * 2020 IEEE International Conference on Communications (ICC), Communication and Information Systems Security, Session: Crypto II
@@ -76,6 +80,7 @@ Service
   * IEEE Open Journal of the Solid-State Circuits Society
   * ACM Transactions on Embedded Computing Systems
   * Springer Journal of Cryptographic Engineering
+  * IET Circuits, Devices and Systems
   * Wiley International Journal of Circuit Theory and Applications
 * <b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE)
 * <b>Member</b>, International Association for Cryptologic Research (IACR)
