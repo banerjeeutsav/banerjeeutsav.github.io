@@ -39,17 +39,16 @@ Professional Experience
 Awards and Fellowships
 ---------------
 * ABB Research Award in Honor of Hubertus von Grünberg, 2022
-* Pratiksha Trust Young Investigator Award, 2022 (IISc)
+* Pratiksha Trust Young Investigator Award, 2022
 * Qualcomm Innovation Fellowship, 2016 (and finalist in 2020)
-* Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015 (MIT)
-* President of India Gold Medal, 2013 (IIT Kharagpur)
-* Institute Silver Medal, 2013 (IIT Kharagpur)
+* Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship, 2015
+* President of India Gold Medal, 2013
 * KVPY Fellowship, 2007
 
 Teaching
 ---------------
 * <b>Instructor</b>, Efficient and Secure Digital Circuits and Systems (E0 217), IISc (Aug 2022)
-* <b>Guest Lecturer</b>, Analysis and Design of Digital Integrated Circuits (6.374), MIT (Fall 2019, Fall 2020)
+* <b>Guest Lecturer</b>, Analysis and Design of Digital Integrated Circuits (6.374), MIT (Fall 2019, Fall 2020, Fall 2022)
 * <b>Teaching Assistant</b>, Analysis and Design of Digital Integrated Circuits (6.374), MIT (Fall 2018)
 
 Service
@@ -60,9 +59,11 @@ Service
   * 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
 * <b>Conference Session Chair / Co-Chair:</b>
-  * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview, Session: Digital and Machine Learning
-  * 2020 IEEE International Conference on Communications (ICC), Communication and Information Systems Security, Session: Crypto II
+  * 2023 International Conference on VLSI Design (VLSID), Session: Technical Track - Low Power Digital Architectures
+  * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Session: Student Research Preview - Digital and Machine Learning
+  * 2020 IEEE International Conference on Communications (ICC), Session: Communication and Information Systems Security - Crypto II
 * <b>Conference Reviewer:</b>
+  * 2023 IEEE International Symposium on Circuits and Systems (ISCAS)
   * 2022 IEEE International Symposium on Circuits and Systems (ISCAS)
   * 2022 International Conference on VLSI Design (VLSID), User Design Track
   * 2021 IEEE World Forum on Internet of Things (WF-IoT)
