@@ -72,16 +72,19 @@ Service
   * IEEE Transactions on Circuits and Systems II: Express Briefs
   * IEEE Transactions on Very Large Scale Integration Systems
   * IEEE Journal of Solid-State Circuits
+  * IEEE Solid-State Circuits Letters
   * IEEE Transactions on Computers
   * IEEE Internet of Things Journal
   * IEEE Transactions on Information Theory
   * IEEE Transactions on Industrial Informatics
+  * IEEE Transactions on Dependable and Secure Computing
   * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
   * IEEE Open Journal of the Solid-State Circuits Society
   * ACM Transactions on Embedded Computing Systems
-  * Springer Journal of Cryptographic Engineering
+  * Journal of Cryptographic Engineering
   * IET Circuits, Devices and Systems
+  * Journal of Low Power Electronics and Applications
   * Wiley International Journal of Circuit Theory and Applications
 * <b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE)
 * <b>Member</b>, International Association for Cryptologic Research (IACR)
