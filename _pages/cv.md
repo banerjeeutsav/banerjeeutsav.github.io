@@ -53,16 +53,22 @@ Teaching
 
 Service
 ---------------
-* <b>Conference Committee Member:</b>
+* <b>Conference Technical Committee Member:</b>
   * 2023 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
   * 2023 International Conference on VLSI Design (VLSID), Low Power Digital Architectures Track, Review Committee
   * 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
+* <b>Conference Organizing Committee Member:</b>
+  * 2023 IEEE International Symposium on Smart Electronic Systems (iSES), Panel Co-Chair
+  * 2023 IISc EECS Research Symposium, Co-Organizer and Faculty Coordinator
+* <b>Conference Special Session / Panel Organizer:</b>
+  * 2023 ACM Great Lakes Symposium on VLSI (GLSVLSI), Special Session on "Quantum: from Circuits and Algorithms to Systems and Applications"
 * <b>Conference Session Chair / Co-Chair:</b>
   * 2023 International Conference on VLSI Design (VLSID), Session: Technical Track - Low Power Digital Architectures
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Session: Student Research Preview - Digital and Machine Learning
   * 2020 IEEE International Conference on Communications (ICC), Session: Communication and Information Systems Security - Crypto II
 * <b>Conference Reviewer:</b>
+  * 2023 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)
   * 2023 IEEE International Symposium on Circuits and Systems (ISCAS)
   * 2022 IEEE International Symposium on Circuits and Systems (ISCAS)
   * 2022 International Conference on VLSI Design (VLSID), User Design Track
@@ -91,5 +97,6 @@ Service
 * <b>Member</b>, IEEE Computer Society
 * <b>Member</b>, IEEE Circuits and Systems Society
 * <b>Member</b>, IEEE Solid-State Circuits Society
+* <b>Faculty Advisor</b>, IEEE IISc VLSI Student Branch Chapter (associated with the IEEE SSCS and CAS Societies, and CEDA and Systems Councils)
 
 
