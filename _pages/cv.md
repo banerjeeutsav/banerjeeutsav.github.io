@@ -54,6 +54,8 @@ Teaching
 Service
 ---------------
 * <b>Conference Technical Committee Member:</b>
+  * 2023 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
+  * 2023 ACM Great Lakes Symposium on VLSI (GLSVLSI), Special Session Program Committee
   * 2023 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
   * 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
@@ -83,17 +85,20 @@ Service
   * IEEE Internet of Things Journal
   * IEEE Transactions on Information Theory
   * IEEE Transactions on Industrial Informatics
+  * IEEE Transactions on Emerging Topics in Computing
   * IEEE Transactions on Dependable and Secure Computing
   * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
   * IEEE Open Journal of the Solid-State Circuits Society
   * ACM Transactions on Embedded Computing Systems
   * Journal of Cryptographic Engineering
+  * IET Electronics Letters
   * IET Circuits, Devices and Systems
   * Journal of Low Power Electronics and Applications
   * Wiley International Journal of Circuit Theory and Applications
 * <b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE)
 * <b>Member</b>, International Association for Cryptologic Research (IACR)
+* <b>Member</b>, Association for Computing Machinery (ACM)
 * <b>Member</b>, IEEE Computer Society
 * <b>Member</b>, IEEE Circuits and Systems Society
 * <b>Member</b>, IEEE Solid-State Circuits Society
