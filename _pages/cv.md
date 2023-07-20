@@ -47,8 +47,8 @@ Awards and Fellowships
 
 Teaching
 ---------------
-* <b>Instructor</b>, Efficient and Secure Digital Circuits and Systems (E0 217), IISc (Aug 2022)
-* <b>Guest Lecturer</b>, Analysis and Design of Digital Integrated Circuits (6.374), MIT (Fall 2019, Fall 2020, Fall 2022)
+* <b>Instructor</b>, Efficient and Secure Digital Circuits and Systems (E0 217), IISc (Aug 2022 - present)
+* <b>Guest Lecturer</b>, Analysis and Design of Digital Integrated Circuits (6.374), MIT (Fall 2019 - present)
 * <b>Teaching Assistant</b>, Analysis and Design of Digital Integrated Circuits (6.374), MIT (Fall 2018)
 
 Service
