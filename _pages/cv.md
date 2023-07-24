@@ -54,12 +54,16 @@ Teaching
 Service
 ---------------
 * <b>Conference Technical Committee Member:</b>
+  * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
+  * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Far East Regional Subcommittee
+  * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
   * 2023 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2023 ACM Great Lakes Symposium on VLSI (GLSVLSI), Special Session Program Committee
   * 2023 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
   * 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
 * <b>Conference Organizing Committee Member:</b>
+  * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Far East Coordinator for Security Subcommittee
   * 2023 IEEE International Symposium on Smart Electronic Systems (iSES), Panel Co-Chair
   * 2023 IISc EECS Research Symposium, Co-Organizer and Faculty Coordinator
 * <b>Conference Special Session / Panel Organizer:</b>
