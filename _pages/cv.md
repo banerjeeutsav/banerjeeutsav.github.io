@@ -58,6 +58,7 @@ Service
   * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Far East Regional Subcommittee
   * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
   * 2023 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
+  * 2023 International Conference on Security, Privacy, and Applied Cryptographic Engineering (SPACE), Technical Program Committee
   * 2023 ACM Great Lakes Symposium on VLSI (GLSVLSI), Special Session Program Committee
   * 2023 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
   * 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
