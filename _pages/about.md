@@ -19,7 +19,7 @@ During my S.M. and Ph.D. at MIT, I was extremely fortunate to have been a member
 
 From 2013 to 2015, I was with the Low Power SoC Design team at <a href="https://www.qualcomm.com" style="color:#0645AD;">Qualcomm</a> (Bengaluru, KA, India), where I was involved in the design and validation of power management architectures for next-generation Snapdragon mobile processors.
 
-I was awarded the President of India Gold Medal in 2013, the Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship in 2015, the Qualcomm Innovation Fellowship in 2016, the Pratiksha Trust Young Investigator Award in 2022 and the ABB Research Award in Honor of Hubertus von Grünberg in 2022.
+I was awarded the President of India Gold Medal in 2013, the Irwin Mark Jacobs & Joan Klein Jacobs MIT Presidential Fellowship in 2015, the Qualcomm Innovation Fellowship in 2016, the Pratiksha Trust Young Investigator Award in 2022, the ABB Research Award in Honor of Hubertus von Grünberg in 2022 and the Intel Rising Star Faculty Award in 2023.
 
 Research Interests
 ------------------

@@ -38,6 +38,7 @@ Professional Experience
 
 Awards and Fellowships
 ---------------
+* Intel Rising Star Faculty Award, 2023
 * ABB Research Award in Honor of Hubertus von Grünberg, 2022
 * Pratiksha Trust Young Investigator Award, 2022
 * Qualcomm Innovation Fellowship, 2016 (and finalist in 2020)
@@ -77,9 +78,9 @@ Service
 * <b>Conference Reviewer:</b>
   * 2023 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)
   * 2023 IEEE International Symposium on Circuits and Systems (ISCAS)
-  * 2023 International Conference on VLSI Design (VLSID), Low Power Digital Architectures Track
+  * 2023 International Conference on VLSI Design (VLSID)
   * 2022 IEEE International Symposium on Circuits and Systems (ISCAS)
-  * 2022 International Conference on VLSI Design (VLSID), User Design Track
+  * 2022 International Conference on VLSI Design (VLSID)
   * 2021 IEEE World Forum on Internet of Things (WF-IoT)
 * <b>Journal Reviewer:</b>
   * IEEE Transactions on Circuits and Systems I: Regular Papers
