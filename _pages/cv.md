@@ -70,12 +70,14 @@ Service
   * 2023 IEEE International Symposium on Smart Electronic Systems (iSES), Panel Co-Chair
   * 2023 IISc EECS Research Symposium, Co-Organizer and Faculty Coordinator
 * <b>Conference Special Session / Panel Organizer:</b>
+  * 2023 IEEE International Symposium on Smart Electronic Systems (iSES), Special Session on "Efficient Chip Design for Emerging Applications"
   * 2023 ACM Great Lakes Symposium on VLSI (GLSVLSI), Special Session on "Quantum: from Circuits and Algorithms to Systems and Applications"
 * <b>Conference Session Chair / Co-Chair:</b>
   * 2023 International Conference on VLSI Design (VLSID), Session: Technical Track - Low Power Digital Architectures
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Session: Student Research Preview - Digital and Machine Learning
   * 2020 IEEE International Conference on Communications (ICC), Session: Communication and Information Systems Security - Crypto II
 * <b>Conference Reviewer:</b>
+  * 2024 IEEE International Symposium on Circuits and Systems (ISCAS)
   * 2023 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)
   * 2023 IEEE International Symposium on Circuits and Systems (ISCAS)
   * 2023 International Conference on VLSI Design (VLSID)
