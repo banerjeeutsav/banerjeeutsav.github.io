@@ -58,6 +58,8 @@ Service
   * Guest Editor, IEEE Solid-State Circuits Letters, Special Section on 2024 IEEE International Solid-State Circuits Conference (ISSCC)
 * <b>Conference Technical Committee Member:</b>
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
+  * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Far East Regional Subcommittee
+  * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
   * 2024 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2024 International Conference on Security, Privacy, and Applied Cryptographic Engineering (SPACE), Technical Program Committee
   * 2024 ACM/IEEE International Conference on Hardware/Software Co-Design and System Synthesis (CODES+ISSS), Technical Program Committee
