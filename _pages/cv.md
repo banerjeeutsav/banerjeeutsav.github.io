@@ -112,6 +112,7 @@ Service
   * ACM Transactions on Embedded Computing Systems
   * Journal of Cryptographic Engineering
   * IET Electronics Letters
+  * IET Quantum Communication
   * IET Circuits, Devices and Systems
   * Journal of Low Power Electronics and Applications
   * Wiley International Journal of Circuit Theory and Applications
