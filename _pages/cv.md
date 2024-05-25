@@ -57,6 +57,9 @@ Service
 * <b> Journal Editor:</b>
   * Guest Editor, IEEE Solid-State Circuits Letters, Special Section on 2024 IEEE International Solid-State Circuits Conference (ISSCC)
 * <b>Conference Technical Committee Member:</b>
+  * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
+  * 2024 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
+  * 2024 International Conference on Security, Privacy, and Applied Cryptographic Engineering (SPACE), Technical Program Committee
   * 2024 ACM/IEEE International Conference on Hardware/Software Co-Design and System Synthesis (CODES+ISSS), Technical Program Committee
   * 2024 ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Technical Program Committee, Hardware and System Security Track
   * 2024 IEEE Electron Devices Technology and Manufacturing Conference (EDTM), Technical Program Committee, Design / System Technology Co-Optimization Track
@@ -70,6 +73,7 @@ Service
   * 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
 * <b>Conference Organizing Committee Member:</b>
+  * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Country Representative for India
   * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Far East Coordinator and Press Designate for Security Subcommittee
   * 2023 IEEE International Symposium on Smart Electronic Systems (iSES), Panel Co-Chair
   * 2023 IISc EECS Research Symposium, Co-Organizer and Faculty Coordinator
