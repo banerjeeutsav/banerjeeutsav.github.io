@@ -106,6 +106,7 @@ Service
   * IEEE Transactions on Industrial Informatics
   * IEEE Transactions on Emerging Topics in Computing
   * IEEE Transactions on Dependable and Secure Computing
+  * IEEE Transactions on Information Forensics and Security
   * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
   * IEEE Open Journal of the Solid-State Circuits Society
