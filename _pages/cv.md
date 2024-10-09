@@ -59,6 +59,7 @@ Service
 * <b>Conference Technical Committee Member:</b>
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
+  * International Conference on VLSI Design (VLSID), Technical Program Committee, Hardware Security Track Co-Chair
   * 2024 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2024 International Conference on Security, Privacy, and Applied Cryptographic Engineering (SPACE), Technical Program Committee
   * 2024 ACM/IEEE International Conference on Hardware/Software Co-Design and System Synthesis (CODES+ISSS), Technical Program Committee
@@ -73,8 +74,9 @@ Service
   * 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
 * <b>Conference Organizing Committee Member:</b>
-  * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Country Representative for India
+  * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Country Representative for India and Press Designate for Security Subcommittee
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Far East Regional Subcommittee
+  * 2025 International Conference on VLSI Design (VLSID), Student Research Forum Co-Chair
   * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Far East Coordinator and Press Designate for Security Subcommittee
   * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Far East Regional Subcommittee
   * 2023 IEEE International Symposium on Smart Electronic Systems (iSES), Panel Co-Chair
