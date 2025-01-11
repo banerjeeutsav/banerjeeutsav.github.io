@@ -55,6 +55,7 @@ Teaching
 Service
 ---------------
 * <b> Journal Editor:</b>
+  * Member of Editorial Board, IACR Communications in Cryptology
   * Guest Editor, IEEE Solid-State Circuits Letters, Special Section on 2024 IEEE International Solid-State Circuits Conference (ISSCC)
 * <b>Conference Technical Committee Member:</b>
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
@@ -86,12 +87,13 @@ Service
   * 2023 IEEE International Symposium on Smart Electronic Systems (iSES), Special Session on "Efficient Chip Design for Emerging Applications"
   * 2023 ACM Great Lakes Symposium on VLSI (GLSVLSI), Special Session on "Quantum: from Circuits and Algorithms to Systems and Applications"
 * <b>Conference Session Chair / Co-Chair:</b>
+  * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Session: Student Research Preview - Machine Learning, Cryogenic and Ising Machine
+  * 2025 International Conference on VLSI Design (VLSID), Session: Technical Track - Hardware Security
   * 2024 IEEE International Symposium on Integrated Circuits and Systems (ISICAS), Session: SoC Building Blocks
   * 2023 International Conference on VLSI Design (VLSID), Session: Technical Track - Low Power Digital Architectures
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Session: Student Research Preview - Digital and Machine Learning
   * 2020 IEEE International Conference on Communications (ICC), Session: Communication and Information Systems Security - Crypto II
 * <b>Conference Reviewer:</b>
-  * 2025 IEEE International Symposium on Circuits and Systems (ISCAS)
   * 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
   * 2024 IEEE International Symposium on Circuits and Systems (ISCAS)
   * 2023 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)
@@ -125,7 +127,6 @@ Service
 * <b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE)
 * <b>Member</b>, International Association for Cryptologic Research (IACR)
 * <b>Member</b>, Association for Computing Machinery (ACM)
-* <b>Member</b>, IEEE Computer Society
 * <b>Member</b>, IEEE Circuits and Systems Society
 * <b>Member</b>, IEEE Solid-State Circuits Society
 * <b>Faculty Advisor</b>, IEEE IISc VLSI Student Branch Chapter (associated with the IEEE SSCS and CAS Societies, and CEDA and Systems Councils)
