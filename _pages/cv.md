@@ -58,6 +58,7 @@ Service
   * Member of Editorial Board, IACR Communications in Cryptology
   * Guest Editor, IEEE Solid-State Circuits Letters, Special Section on 2024 IEEE International Solid-State Circuits Conference (ISSCC)
 * <b>Conference Technical Committee Member:</b>
+  * 2025 ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Technical Program Committee, Hardware and System Security Track
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
   * 2025 International Conference on VLSI Design (VLSID), Technical Program Committee, Hardware Security Track Co-Chair
