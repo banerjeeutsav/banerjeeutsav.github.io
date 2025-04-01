@@ -56,8 +56,12 @@ Service
 ---------------
 * <b> Journal Editor:</b>
   * Member of Editorial Board, IACR Communications in Cryptology
+  * Guest Editor, IEEE Journal of Solid-State Circuits, Special Issue on 2025 IEEE International Solid-State Circuits Conference (ISSCC)
   * Guest Editor, IEEE Solid-State Circuits Letters, Special Section on 2024 IEEE International Solid-State Circuits Conference (ISSCC)
 * <b>Conference Technical Committee Member:</b>
+  * 2026 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
+  * 2026 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
+  * 2025 International Conference on Security, Privacy, and Applied Cryptographic Engineering (SPACE), Technical Program Committee
   * 2025 ACM/IEEE International Conference on Hardware/Software Co-Design and System Synthesis (CODES+ISSS), Technical Program Committee
   * 2025 ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Technical Program Committee, Technologies and Circuits Track
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
@@ -78,6 +82,8 @@ Service
   * 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2022 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
 * <b>Conference Organizing Committee Member:</b>
+  * 2026 IEEE International Solid-State Circuits Conference (ISSCC), Country Representative for India
+  * 2026 IEEE International Solid-State Circuits Conference (ISSCC), Far East Regional Subcommittee
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Country Representative for India and Press Designate for Security Subcommittee
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Far East Regional Subcommittee
   * 2025 International Conference on VLSI Design (VLSID), Student Research Forum Co-Chair
