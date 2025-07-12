@@ -61,15 +61,18 @@ Service
 * <b>Conference Technical Committee Member:</b>
   * 2026 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
   * 2026 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
+  * 2026 International Conference on VLSI Design (VLSID), Technical Program Committee, Hardware Security Track
+  * 2025 IEEE International Conference on Intelligent Computing and Systems at the Edge (ICEdge), Technical Program Committee, Security and Privacy Track Co-Chair
   * 2025 International Conference on Security, Privacy, and Applied Cryptographic Engineering (SPACE), Technical Program Committee
-  * 2025 ACM/IEEE International Conference on Hardware/Software Co-Design and System Synthesis (CODES+ISSS), Technical Program Committee
+  * 2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Technical Program Committee, Architecture and Systems for Security Track
+  * 2025 International Conference on Hardware/Software Co-Design and System Synthesis (CODES+ISSS), Technical Program Committee
   * 2025 ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Technical Program Committee, Technologies and Circuits Track
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
   * 2025 IEEE International Solid-State Circuits Conference (ISSCC), Student Research Preview Committee
   * 2025 International Conference on VLSI Design (VLSID), Technical Program Committee, Hardware Security Track Co-Chair
   * 2024 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Technical Program Committee
   * 2024 International Conference on Security, Privacy, and Applied Cryptographic Engineering (SPACE), Technical Program Committee
-  * 2024 ACM/IEEE International Conference on Hardware/Software Co-Design and System Synthesis (CODES+ISSS), Technical Program Committee
+  * 2024 International Conference on Hardware/Software Co-Design and System Synthesis (CODES+ISSS), Technical Program Committee
   * 2024 ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Technical Program Committee, Hardware and System Security Track
   * 2024 IEEE Electron Devices Technology and Manufacturing Conference (EDTM), Technical Program Committee, Design / System Technology Co-Optimization Track
   * 2024 IEEE International Solid-State Circuits Conference (ISSCC), Technical Program Committee, Security Subcommittee
